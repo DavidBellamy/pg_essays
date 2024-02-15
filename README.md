@@ -1,3 +1,5 @@
+![Update Graphs](https://github.com/DavidBellamy/pg_essays/actions/workflows/daily_update.yml/badge.svg)
+
 ![Histogram of Word Counts](word_count_histogram.png)
 
 A simple program that visits every Paul Graham essay listed in the RSS feed 
