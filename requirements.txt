@@ -1,6 +1,9 @@
 bs4
+feedgen
 lxml
 matplotlib
 pandas
+plotly
 requests
+scikit-learn
 tqdm
