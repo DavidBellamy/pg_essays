@@ -6,27 +6,36 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 
-# Essay links obtained from the RSS feed
-url = "http://www.aaronsw.com/2002/feeds/pgessays.rss"
+# Essay links obtained from Paul Graham's articles page
+url = "https://paulgraham.com/articles.html"
 
-# Fetch the RSS feed content
+# Fetch the articles page
 response = requests.get(url)
-xml_content = response.text
 
-soup = BeautifulSoup(xml_content, 'xml')
+soup = BeautifulSoup(response.text, 'html.parser')
+
+# Collect essay links and titles from the page
+essays = []
+for a in soup.find_all('a', href=True):
+    href = a['href']
+    title = a.get_text(strip=True)
+    if not title or not href.endswith('.html'):
+        continue
+    # Skip self-links and non-essay pages
+    if href in ('articles.html', 'index.html'):
+        continue
+    # Build full URL from relative href
+    if href.startswith('http'):
+        link = href
+    else:
+        link = 'http://www.paulgraham.com/' + href
+    essays.append((title, link))
 
 # Initialize a list to store dictionaries of essay information
 data = []
 
-# Process each essay item
-for item in tqdm(soup.find_all('item')):
-    link = item.find('link').text
-    title = item.find('title').text
-
-    # If link contains "sep.turbifycdn" strip the erroneous preface 'http://www.paulgraham.com/' from it
-    if "sep.turbifycdn" in link:
-        link = link.replace('http://www.paulgraham.com/', '')
-
+# Process each essay
+for title, link in tqdm(essays):
     # Fetch each essay page to calculate word count
     response = requests.get(link)
     soup = BeautifulSoup(response.content, 'html.parser')
