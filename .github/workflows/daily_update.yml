@@ -5,6 +5,9 @@ permissions:
   id-token: write
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'  # Runs every day at midnight
