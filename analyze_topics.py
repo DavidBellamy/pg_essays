@@ -26,6 +26,7 @@ def compute_tfidf(texts, max_features=1000):
     vectorizer = TfidfVectorizer(
         max_features=max_features,
         stop_words="english",
+        token_pattern=r"(?u)\b[a-zA-Z]{3,}\b",
     )
     tfidf_matrix = vectorizer.fit_transform(texts)
     return vectorizer, tfidf_matrix
