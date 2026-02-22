@@ -6,4 +6,5 @@ pandas
 plotly
 requests
 scikit-learn
+statsmodels
 tqdm
