@@ -2,7 +2,11 @@ import json
 import logging
 import os
 
-from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS, TfidfVectorizer
+
+CUSTOM_STOP_WORDS = list(ENGLISH_STOP_WORDS) + ["don", "didn", "doesn", "isn", "wasn",
+                                                  "wouldn", "couldn", "shouldn", "won",
+                                                  "hasn", "haven", "aren", "weren", "ain"]
 
 logging.basicConfig(
     level=logging.INFO,
