@@ -1,6 +1,8 @@
 name: Update Graphs
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 on:
   workflow_dispatch:
@@ -13,10 +15,10 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
         python-version: '3.11'
 
@@ -24,6 +26,10 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
+        pip install -r requirements-dev.txt
+
+    - name: Run tests
+      run: pytest tests/ -v
 
     - name: Run web scraping script
       run: python scrape_essays.py
@@ -31,14 +37,24 @@ jobs:
     - name: Run visualization script
       run: python visualize_wc.py
 
+    - name: Run topic analysis
+      run: python analyze_topics.py
+
+    - name: Generate dashboard
+      run: python generate_dashboard.py
+
+    - name: Generate feed
+      run: python generate_feed.py
+
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        git add pg_essays_wc.csv publication_dates.json docs/
         # Check for changes
-        if git diff --exit-code; then
+        if git diff --cached --exit-code; then
           echo "No changes to commit"
         else
-          git commit -am "Update graphs with latest data"
+          git commit -m "Update graphs with latest data"
           git push
         fi
