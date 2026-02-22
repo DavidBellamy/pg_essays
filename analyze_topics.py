@@ -29,7 +29,7 @@ def compute_tfidf(texts, max_features=1000):
     """Compute TF-IDF matrix and return vectorizer + matrix."""
     vectorizer = TfidfVectorizer(
         max_features=max_features,
-        stop_words="english",
+        stop_words=CUSTOM_STOP_WORDS,
         token_pattern=r"(?u)\b[a-zA-Z]{3,}\b",
     )
     tfidf_matrix = vectorizer.fit_transform(texts)
