@@ -3,11 +3,11 @@
     "http://www.paulgraham.com/greatwork.html": [
       {
         "word": "work",
-        "score": 0.493
+        "score": 0.4932
       },
       {
         "word": "great",
-        "score": 0.2439
+        "score": 0.244
       },
       {
         "word": "people",
@@ -19,11 +19,11 @@
       },
       {
         "word": "new",
-        "score": 0.1612
+        "score": 0.1613
       },
       {
         "word": "good",
-        "score": 0.1469
+        "score": 0.147
       },
       {
         "word": "doing",
@@ -129,49 +129,49 @@
     "http://www.paulgraham.com/winc.html": [
       {
         "word": "tax",
-        "score": 0.7249
+        "score": 0.7289
       },
       {
         "word": "income",
-        "score": 0.4989
+        "score": 0.5017
       },
       {
         "word": "rate",
-        "score": 0.2625
+        "score": 0.2639
       },
       {
         "word": "wealth",
-        "score": 0.2208
+        "score": 0.2221
       },
       {
         "word": "state",
-        "score": 0.1251
+        "score": 0.1258
       },
       {
         "word": "return",
-        "score": 0.1194
-      },
-      {
-        "word": "rates",
-        "score": 0.1052
+        "score": 0.12
       },
       {
         "word": "risk",
-        "score": 0.0937
+        "score": 0.0943
       },
       {
         "word": "capital",
-        "score": 0.085
+        "score": 0.0855
       },
       {
         "word": "year",
-        "score": 0.0759
+        "score": 0.0763
+      },
+      {
+        "word": "free",
+        "score": 0.0704
       }
     ],
     "http://www.paulgraham.com/brandage.html": [
       {
         "word": "watches",
-        "score": 0.7438
+        "score": 0.7439
       },
       {
         "word": "golden",
@@ -183,11 +183,11 @@
       },
       {
         "word": "watch",
-        "score": 0.2477
+        "score": 0.2478
       },
       {
         "word": "age",
-        "score": 0.2065
+        "score": 0.2066
       },
       {
         "word": "design",
@@ -213,43 +213,43 @@
     "http://www.paulgraham.com/field.html": [
       {
         "word": "readers",
-        "score": 0.5472
+        "score": 0.5497
       },
       {
         "word": "essay",
-        "score": 0.3075
+        "score": 0.3089
       },
       {
         "word": "important",
-        "score": 0.2806
+        "score": 0.2819
       },
       {
         "word": "know",
-        "score": 0.2218
+        "score": 0.2228
       },
       {
         "word": "surprise",
-        "score": 0.2208
+        "score": 0.2218
       },
       {
         "word": "write",
-        "score": 0.1965
+        "score": 0.1973
       },
       {
         "word": "writing",
-        "score": 0.1719
+        "score": 0.1727
       },
       {
         "word": "thinking",
-        "score": 0.1684
+        "score": 0.1691
       },
       {
         "word": "change",
-        "score": 0.1667
+        "score": 0.1674
       },
       {
         "word": "topic",
-        "score": 0.1374
+        "score": 0.1381
       }
     ],
     "http://www.paulgraham.com/goodwriting.html": [
@@ -339,15 +339,15 @@
     "http://www.paulgraham.com/woke.html": [
       {
         "word": "political",
-        "score": 0.5152
+        "score": 0.5154
       },
       {
         "word": "social",
-        "score": 0.2888
+        "score": 0.2889
       },
       {
         "word": "rules",
-        "score": 0.2343
+        "score": 0.2344
       },
       {
         "word": "people",
@@ -355,7 +355,7 @@
       },
       {
         "word": "new",
-        "score": 0.2073
+        "score": 0.2074
       },
       {
         "word": "universities",
@@ -367,7 +367,7 @@
       },
       {
         "word": "organizations",
-        "score": 0.1407
+        "score": 0.1408
       },
       {
         "word": "left",
@@ -375,7 +375,7 @@
       },
       {
         "word": "times",
-        "score": 0.1091
+        "score": 0.1092
       }
     ],
     "http://www.paulgraham.com/writes.html": [
@@ -423,127 +423,127 @@
     "http://www.paulgraham.com/when.html": [
       {
         "word": "work",
-        "score": 0.4331
+        "score": 0.4344
       },
       {
         "word": "interested",
-        "score": 0.2659
+        "score": 0.2667
       },
       {
         "word": "money",
-        "score": 0.2417
+        "score": 0.2424
       },
       {
         "word": "people",
-        "score": 0.2118
+        "score": 0.2124
       },
       {
         "word": "doing",
-        "score": 0.1832
+        "score": 0.1838
       },
       {
         "word": "like",
-        "score": 0.1716
+        "score": 0.1721
       },
       {
         "word": "math",
-        "score": 0.1632
+        "score": 0.1636
       },
       {
         "word": "advice",
-        "score": 0.1632
+        "score": 0.1636
       },
       {
         "word": "want",
-        "score": 0.156
+        "score": 0.1565
       },
       {
         "word": "make",
-        "score": 0.1533
+        "score": 0.1538
       }
     ],
     "http://www.paulgraham.com/foundermode.html": [
       {
         "word": "founders",
-        "score": 0.44
+        "score": 0.4381
       },
       {
         "word": "founder",
-        "score": 0.3678
+        "score": 0.3663
       },
       {
         "word": "company",
-        "score": 0.2802
+        "score": 0.2791
       },
       {
         "word": "run",
-        "score": 0.2779
+        "score": 0.2767
       },
       {
         "word": "manager",
-        "score": 0.2264
+        "score": 0.2255
       },
       {
         "word": "managers",
-        "score": 0.202
+        "score": 0.2012
       },
       {
         "word": "companies",
-        "score": 0.1893
+        "score": 0.1885
       },
       {
         "word": "jobs",
-        "score": 0.1442
+        "score": 0.1436
       },
       {
         "word": "steve",
-        "score": 0.1386
+        "score": 0.138
       },
       {
         "word": "know",
-        "score": 0.131
+        "score": 0.1305
       }
     ],
     "http://www.paulgraham.com/persistence.html": [
       {
         "word": "energy",
-        "score": 0.3557
+        "score": 0.3563
       },
       {
         "word": "problems",
-        "score": 0.314
+        "score": 0.3144
       },
       {
         "word": "goal",
-        "score": 0.2728
+        "score": 0.2732
       },
       {
         "word": "problem",
-        "score": 0.1544
+        "score": 0.1547
       },
       {
         "word": "determined",
-        "score": 0.1534
+        "score": 0.1536
       },
       {
         "word": "right",
-        "score": 0.1523
+        "score": 0.1525
       },
       {
         "word": "solve",
-        "score": 0.1462
+        "score": 0.1465
       },
       {
         "word": "good",
-        "score": 0.1405
+        "score": 0.1408
       },
       {
         "word": "ideas",
-        "score": 0.1383
+        "score": 0.1386
       },
       {
         "word": "kind",
-        "score": 0.1296
+        "score": 0.1298
       }
     ],
     "http://www.paulgraham.com/reddits.html": [
@@ -591,31 +591,31 @@
     "http://www.paulgraham.com/google.html": [
       {
         "word": "google",
-        "score": 0.3134
+        "score": 0.3136
       },
       {
         "word": "start",
-        "score": 0.2655
+        "score": 0.2656
       },
       {
         "word": "startup",
-        "score": 0.2642
+        "score": 0.2643
       },
       {
         "word": "technology",
-        "score": 0.2196
+        "score": 0.2197
       },
       {
         "word": "good",
-        "score": 0.2133
+        "score": 0.2134
       },
       {
         "word": "university",
-        "score": 0.1961
+        "score": 0.1962
       },
       {
         "word": "projects",
-        "score": 0.194
+        "score": 0.1941
       },
       {
         "word": "just",
@@ -623,95 +623,95 @@
       },
       {
         "word": "company",
-        "score": 0.1768
+        "score": 0.1769
       },
       {
         "word": "need",
-        "score": 0.1517
+        "score": 0.1518
       }
     ],
     "http://www.paulgraham.com/best.html": [
       {
         "word": "essay",
-        "score": 0.4659
+        "score": 0.4663
       },
       {
         "word": "essays",
-        "score": 0.3769
+        "score": 0.3772
       },
       {
         "word": "question",
-        "score": 0.3103
+        "score": 0.3106
       },
       {
         "word": "writing",
-        "score": 0.2573
+        "score": 0.2575
       },
       {
         "word": "write",
-        "score": 0.189
+        "score": 0.1891
       },
       {
         "word": "initial",
-        "score": 0.18
+        "score": 0.1802
       },
       {
         "word": "topic",
-        "score": 0.1671
+        "score": 0.1672
       },
       {
         "word": "questions",
-        "score": 0.1605
+        "score": 0.1606
       },
       {
         "word": "topics",
-        "score": 0.1571
+        "score": 0.1572
       },
       {
         "word": "best",
-        "score": 0.1419
+        "score": 0.142
       }
     ],
     "http://www.paulgraham.com/superlinear.html": [
       {
         "word": "returns",
-        "score": 0.5266
+        "score": 0.5272
       },
       {
         "word": "growth",
-        "score": 0.3059
+        "score": 0.3063
       },
       {
         "word": "performance",
-        "score": 0.2554
+        "score": 0.2557
       },
       {
         "word": "learning",
-        "score": 0.2342
+        "score": 0.2345
       },
       {
         "word": "work",
-        "score": 0.1383
+        "score": 0.1385
       },
       {
         "word": "grows",
-        "score": 0.1277
+        "score": 0.1279
       },
       {
         "word": "curiosity",
-        "score": 0.121
+        "score": 0.1212
       },
       {
         "word": "return",
-        "score": 0.1171
+        "score": 0.1172
       },
       {
         "word": "people",
-        "score": 0.1148
+        "score": 0.1149
       },
       {
         "word": "fields",
-        "score": 0.1113
+        "score": 0.1114
       }
     ],
     "http://www.paulgraham.com/getideas.html": [
@@ -801,103 +801,103 @@
     "http://www.paulgraham.com/want.html": [
       {
         "word": "want",
-        "score": 0.7973
+        "score": 0.7991
       },
       {
         "word": "control",
-        "score": 0.2276
+        "score": 0.2281
       },
       {
         "word": "change",
-        "score": 0.1544
+        "score": 0.1547
       },
       {
         "word": "machine",
-        "score": 0.1353
+        "score": 0.1355
       },
       {
         "word": "way",
-        "score": 0.1261
+        "score": 0.1264
       },
       {
         "word": "matter",
-        "score": 0.1195
+        "score": 0.1197
       },
       {
         "word": "true",
-        "score": 0.1188
+        "score": 0.1191
       },
       {
         "word": "feeling",
-        "score": 0.1156
+        "score": 0.1159
       },
       {
         "word": "order",
-        "score": 0.1013
+        "score": 0.1015
       },
       {
         "word": "trouble",
-        "score": 0.0993
+        "score": 0.0995
       }
     ],
     "http://www.paulgraham.com/alien.html": [
       {
         "word": "truth",
-        "score": 0.5161
+        "score": 0.5172
       },
       {
         "word": "share",
-        "score": 0.38
+        "score": 0.3808
       },
       {
         "word": "philosophy",
-        "score": 0.3401
+        "score": 0.3408
       },
       {
         "word": "forms",
-        "score": 0.2001
+        "score": 0.2005
       },
       {
         "word": "life",
-        "score": 0.1668
+        "score": 0.1671
       },
       {
         "word": "math",
-        "score": 0.1627
+        "score": 0.1631
       },
       {
         "word": "book",
-        "score": 0.1615
+        "score": 0.1618
       },
       {
         "word": "threshold",
-        "score": 0.1364
+        "score": 0.1367
       },
       {
         "word": "idea",
-        "score": 0.1241
+        "score": 0.1243
       },
       {
         "word": "day",
-        "score": 0.1172
+        "score": 0.1174
       }
     ],
     "http://www.paulgraham.com/users.html": [
       {
         "word": "founders",
-        "score": 0.4591
+        "score": 0.4593
       },
       {
         "word": "partners",
-        "score": 0.3393
+        "score": 0.3394
       },
       {
         "word": "startups",
-        "score": 0.2766
+        "score": 0.2767
       },
       {
         "word": "batch",
-        "score": 0.2394
+        "score": 0.2395
       },
       {
         "word": "partner",
@@ -913,7 +913,7 @@
       },
       {
         "word": "focus",
-        "score": 0.1129
+        "score": 0.113
       },
       {
         "word": "stage",
@@ -921,7 +921,7 @@
       },
       {
         "word": "knowledge",
-        "score": 0.0993
+        "score": 0.0994
       }
     ],
     "http://www.paulgraham.com/heresy.html": [
@@ -969,43 +969,43 @@
     "http://www.paulgraham.com/words.html": [
       {
         "word": "writing",
-        "score": 0.4805
+        "score": 0.4809
       },
       {
         "word": "ideas",
-        "score": 0.4506
+        "score": 0.451
       },
       {
         "word": "words",
-        "score": 0.3134
+        "score": 0.3136
       },
       {
         "word": "complete",
-        "score": 0.2147
+        "score": 0.2149
       },
       {
         "word": "conversation",
-        "score": 0.1866
+        "score": 0.1868
       },
       {
         "word": "know",
-        "score": 0.1423
+        "score": 0.1425
       },
       {
         "word": "head",
-        "score": 0.1361
+        "score": 0.1362
       },
       {
         "word": "plan",
-        "score": 0.1351
+        "score": 0.1352
       },
       {
         "word": "test",
-        "score": 0.1332
+        "score": 0.1333
       },
       {
         "word": "wrote",
-        "score": 0.1143
+        "score": 0.1144
       }
     ],
     "http://www.paulgraham.com/goodtaste.html": [
@@ -1169,7 +1169,7 @@
       },
       {
         "word": "harder",
-        "score": 0.1117
+        "score": 0.1116
       },
       {
         "word": "school",
@@ -1179,49 +1179,49 @@
     "http://www.paulgraham.com/own.html": [
       {
         "word": "projects",
-        "score": 0.4712
+        "score": 0.472
       },
       {
         "word": "work",
-        "score": 0.358
+        "score": 0.3586
       },
       {
         "word": "project",
-        "score": 0.3044
+        "score": 0.305
       },
       {
         "word": "working",
-        "score": 0.2453
+        "score": 0.2457
       },
       {
         "word": "kids",
-        "score": 0.2304
+        "score": 0.2308
       },
       {
         "word": "kind",
-        "score": 0.1229
+        "score": 0.1231
       },
       {
         "word": "told",
-        "score": 0.1086
+        "score": 0.1088
       },
       {
         "word": "way",
-        "score": 0.1077
+        "score": 0.1079
       },
       {
         "word": "write",
-        "score": 0.106
+        "score": 0.1061
       },
       {
         "word": "people",
-        "score": 0.1027
+        "score": 0.1029
       }
     ],
     "http://www.paulgraham.com/fn.html": [
       {
         "word": "nerds",
-        "score": 0.86
+        "score": 0.8603
       },
       {
         "word": "independent",
@@ -1229,7 +1229,7 @@
       },
       {
         "word": "ambitious",
-        "score": 0.1387
+        "score": 0.1388
       },
       {
         "word": "social",
@@ -1237,22 +1237,22 @@
       },
       {
         "word": "success",
-        "score": 0.096
+        "score": 0.0961
       },
       {
         "word": "problems",
-        "score": 0.0958
+        "score": 0.0959
       },
       {
         "word": "news",
         "score": 0.0932
       },
       {
-        "word": "minded",
+        "word": "situations",
         "score": 0.0899
       },
       {
-        "word": "situations",
+        "word": "minded",
         "score": 0.0899
       },
       {
@@ -1389,43 +1389,43 @@
     "http://www.paulgraham.com/richnow.html": [
       {
         "word": "companies",
-        "score": 0.3966
+        "score": 0.3969
       },
       {
         "word": "rich",
-        "score": 0.3092
+        "score": 0.3095
       },
       {
         "word": "starting",
-        "score": 0.2871
+        "score": 0.2873
       },
       {
         "word": "people",
-        "score": 0.217
+        "score": 0.2171
       },
       {
         "word": "new",
-        "score": 0.186
+        "score": 0.1861
       },
       {
         "word": "economy",
-        "score": 0.1654
+        "score": 0.1655
       },
       {
         "word": "company",
-        "score": 0.1602
+        "score": 0.1603
       },
       {
         "word": "founders",
-        "score": 0.1456
+        "score": 0.1457
       },
       {
         "word": "mid",
-        "score": 0.1402
+        "score": 0.1403
       },
       {
         "word": "century",
-        "score": 0.1375
+        "score": 0.1376
       }
     ],
     "http://www.paulgraham.com/simply.html": [
@@ -1515,27 +1515,27 @@
     "http://www.paulgraham.com/worked.html": [
       {
         "word": "lisp",
-        "score": 0.3232
+        "score": 0.323
       },
       {
         "word": "painting",
-        "score": 0.2085
+        "score": 0.2084
       },
       {
         "word": "essays",
-        "score": 0.1847
+        "score": 0.1846
       },
       {
         "word": "summer",
-        "score": 0.1817
+        "score": 0.1816
       },
       {
         "word": "software",
-        "score": 0.1609
+        "score": 0.1608
       },
       {
         "word": "time",
-        "score": 0.1491
+        "score": 0.149
       },
       {
         "word": "like",
@@ -1543,141 +1543,141 @@
       },
       {
         "word": "paint",
-        "score": 0.1313
+        "score": 0.1312
       },
       {
         "word": "working",
-        "score": 0.1299
+        "score": 0.1298
       },
       {
         "word": "language",
-        "score": 0.1206
+        "score": 0.1205
       }
     ],
     "http://www.paulgraham.com/earnest.html": [
       {
         "word": "founders",
-        "score": 0.2658
+        "score": 0.2663
       },
       {
         "word": "interested",
-        "score": 0.2456
+        "score": 0.2461
       },
       {
         "word": "politics",
-        "score": 0.2238
+        "score": 0.2242
       },
       {
         "word": "people",
-        "score": 0.2054
+        "score": 0.2058
       },
       {
         "word": "cool",
-        "score": 0.198
+        "score": 0.1983
       },
       {
         "word": "matter",
-        "score": 0.1943
+        "score": 0.1947
       },
       {
         "word": "silicon",
-        "score": 0.1855
+        "score": 0.1858
       },
       {
         "word": "nerds",
-        "score": 0.1814
+        "score": 0.1817
       },
       {
         "word": "valley",
-        "score": 0.1793
+        "score": 0.1796
       },
       {
         "word": "solving",
-        "score": 0.1668
+        "score": 0.1671
       }
     ],
     "http://www.paulgraham.com/ace.html": [
       {
         "word": "partners",
-        "score": 0.544
+        "score": 0.5434
       },
       {
         "word": "founders",
-        "score": 0.2915
+        "score": 0.2912
       },
       {
         "word": "people",
-        "score": 0.2163
+        "score": 0.2161
       },
       {
         "word": "market",
-        "score": 0.2147
+        "score": 0.2145
       },
       {
         "word": "users",
-        "score": 0.2122
+        "score": 0.2119
       },
       {
         "word": "want",
-        "score": 0.1739
+        "score": 0.1737
       },
       {
         "word": "idea",
-        "score": 0.1473
+        "score": 0.1471
       },
       {
         "word": "know",
-        "score": 0.1451
+        "score": 0.1449
       },
       {
         "word": "money",
-        "score": 0.1326
+        "score": 0.1325
       },
       {
         "word": "make",
-        "score": 0.1281
+        "score": 0.128
       }
     ],
     "http://www.paulgraham.com/airbnbs.html": [
       {
+        "word": "airbnb",
+        "score": 0.4624
+      },
+      {
         "word": "growth",
-        "score": 0.3557
+        "score": 0.3153
       },
       {
         "word": "york",
-        "score": 0.2333
+        "score": 0.2069
       },
       {
         "word": "new",
-        "score": 0.2298
+        "score": 0.2038
       },
       {
         "word": "money",
-        "score": 0.1958
+        "score": 0.1736
       },
       {
         "word": "company",
-        "score": 0.1607
+        "score": 0.1425
       },
       {
         "word": "goal",
-        "score": 0.1524
-      },
-      {
-        "word": "like",
-        "score": 0.1487
-      },
-      {
-        "word": "started",
-        "score": 0.1374
-      },
-      {
-        "word": "batch",
         "score": 0.1351
       },
       {
-        "word": "took",
-        "score": 0.1299
+        "word": "like",
+        "score": 0.1318
+      },
+      {
+        "word": "started",
+        "score": 0.1218
+      },
+      {
+        "word": "batch",
+        "score": 0.1197
       }
     ],
     "http://www.paulgraham.com/think.html": [
@@ -1725,39 +1725,39 @@
     "http://www.paulgraham.com/early.html": [
       {
         "word": "work",
-        "score": 0.3163
+        "score": 0.3164
       },
       {
         "word": "new",
-        "score": 0.2546
+        "score": 0.2547
       },
       {
         "word": "early",
-        "score": 0.237
+        "score": 0.2371
       },
       {
         "word": "silicon",
-        "score": 0.2265
+        "score": 0.2266
       },
       {
         "word": "people",
-        "score": 0.219
+        "score": 0.2191
       },
       {
         "word": "valley",
-        "score": 0.2189
+        "score": 0.219
       },
       {
         "word": "ambitious",
-        "score": 0.1563
+        "score": 0.1564
       },
       {
         "word": "judge",
-        "score": 0.151
+        "score": 0.1511
       },
       {
         "word": "just",
-        "score": 0.1506
+        "score": 0.1507
       },
       {
         "word": "way",
@@ -1767,31 +1767,31 @@
     "http://www.paulgraham.com/wtax.html": [
       {
         "word": "tax",
-        "score": 0.6906
+        "score": 0.6912
       },
       {
         "word": "wealth",
-        "score": 0.504
+        "score": 0.5044
       },
       {
         "word": "stock",
-        "score": 0.3016
+        "score": 0.3018
       },
       {
         "word": "income",
-        "score": 0.174
+        "score": 0.1741
       },
       {
         "word": "government",
-        "score": 0.1604
+        "score": 0.1606
       },
       {
         "word": "threshold",
-        "score": 0.1423
+        "score": 0.1424
       },
       {
         "word": "years",
-        "score": 0.1192
+        "score": 0.1193
       },
       {
         "word": "suppose",
@@ -1935,43 +1935,43 @@
     "http://www.paulgraham.com/useful.html": [
       {
         "word": "essays",
-        "score": 0.3592
+        "score": 0.3588
       },
       {
         "word": "writing",
-        "score": 0.331
+        "score": 0.3307
       },
       {
         "word": "essay",
-        "score": 0.296
+        "score": 0.2957
       },
       {
         "word": "publish",
-        "score": 0.218
+        "score": 0.2177
       },
       {
         "word": "write",
-        "score": 0.1891
+        "score": 0.1889
       },
       {
         "word": "useful",
-        "score": 0.1612
+        "score": 0.161
       },
       {
         "word": "people",
-        "score": 0.15
+        "score": 0.1498
       },
       {
         "word": "importance",
-        "score": 0.1437
+        "score": 0.1435
       },
       {
         "word": "readers",
-        "score": 0.1437
+        "score": 0.1435
       },
       {
         "word": "correct",
-        "score": 0.1391
+        "score": 0.1389
       }
     ],
     "http://www.paulgraham.com/noob.html": [
@@ -2134,11 +2134,11 @@
         "score": 0.1993
       },
       {
-        "word": "conservative",
+        "word": "essays",
         "score": 0.154
       },
       {
-        "word": "essays",
+        "word": "conservative",
         "score": 0.154
       }
     ],
@@ -2229,43 +2229,43 @@
     "http://www.paulgraham.com/genius.html": [
       {
         "word": "interested",
-        "score": 0.3359
+        "score": 0.3367
       },
       {
         "word": "great",
-        "score": 0.2587
+        "score": 0.2592
       },
       {
         "word": "work",
-        "score": 0.2228
+        "score": 0.2233
       },
       {
         "word": "theory",
-        "score": 0.2226
+        "score": 0.2231
       },
       {
         "word": "promising",
-        "score": 0.2058
+        "score": 0.2063
       },
       {
         "word": "people",
-        "score": 0.2034
+        "score": 0.2038
       },
       {
         "word": "ability",
-        "score": 0.1732
+        "score": 0.1735
       },
       {
         "word": "natural",
-        "score": 0.1657
+        "score": 0.166
       },
       {
         "word": "different",
-        "score": 0.1428
+        "score": 0.1431
       },
       {
         "word": "suggests",
-        "score": 0.139
+        "score": 0.1393
       }
     ],
     "http://www.paulgraham.com/sun.html": [
@@ -2370,11 +2370,11 @@
         "score": 0.2343
       },
       {
-        "word": "mistakes",
+        "word": "conventional",
         "score": 0.1944
       },
       {
-        "word": "conventional",
+        "word": "mistakes",
         "score": 0.1944
       },
       {
@@ -2397,43 +2397,43 @@
     "http://www.paulgraham.com/pgh.html": [
       {
         "word": "city",
-        "score": 0.4779
+        "score": 0.4773
       },
       {
         "word": "people",
-        "score": 0.2203
+        "score": 0.22
       },
       {
         "word": "startup",
-        "score": 0.2019
+        "score": 0.2016
       },
       {
         "word": "startups",
-        "score": 0.1967
+        "score": 0.1965
       },
       {
         "word": "valley",
-        "score": 0.1938
+        "score": 0.1935
       },
       {
         "word": "place",
-        "score": 0.1914
+        "score": 0.1912
       },
       {
         "word": "cheap",
-        "score": 0.1831
+        "score": 0.1829
       },
       {
         "word": "silicon",
-        "score": 0.1783
+        "score": 0.178
       },
       {
         "word": "like",
-        "score": 0.1428
+        "score": 0.1427
       },
       {
         "word": "university",
-        "score": 0.1349
+        "score": 0.1347
       }
     ],
     "http://www.paulgraham.com/vb.html": [
@@ -2481,169 +2481,169 @@
     "http://www.paulgraham.com/ineq.html": [
       {
         "word": "inequality",
-        "score": 0.6993
+        "score": 0.7006
       },
       {
         "word": "economic",
-        "score": 0.474
+        "score": 0.4749
       },
       {
         "word": "wealth",
-        "score": 0.2829
+        "score": 0.2834
       },
       {
         "word": "rich",
-        "score": 0.2154
+        "score": 0.2158
       },
       {
         "word": "people",
-        "score": 0.1064
+        "score": 0.1065
       },
       {
         "word": "founders",
-        "score": 0.0876
+        "score": 0.0877
       },
       {
         "word": "poor",
-        "score": 0.0865
+        "score": 0.0867
       },
       {
         "word": "variation",
-        "score": 0.0824
+        "score": 0.0826
       },
       {
         "word": "creating",
-        "score": 0.0815
+        "score": 0.0817
       },
       {
         "word": "startups",
-        "score": 0.0686
+        "score": 0.0687
       }
     ],
     "http://www.paulgraham.com/re.html": [
       {
         "word": "century",
-        "score": 0.3312
+        "score": 0.3323
       },
       {
         "word": "companies",
-        "score": 0.322
+        "score": 0.3231
       },
       {
         "word": "war",
-        "score": 0.3059
+        "score": 0.307
       },
       {
         "word": "big",
-        "score": 0.2147
+        "score": 0.2154
       },
       {
         "word": "mid",
-        "score": 0.1854
+        "score": 0.186
       },
       {
         "word": "tax",
-        "score": 0.1852
+        "score": 0.1859
       },
       {
         "word": "world",
-        "score": 0.1586
+        "score": 0.1591
       },
       {
         "word": "economic",
-        "score": 0.1506
+        "score": 0.1512
       },
       {
         "word": "company",
-        "score": 0.1406
+        "score": 0.141
       },
       {
         "word": "market",
-        "score": 0.1383
+        "score": 0.1387
       }
     ],
     "http://www.paulgraham.com/jessica.html": [
       {
         "word": "jessica",
-        "score": 0.4772
+        "score": 0.4767
       },
       {
         "word": "founders",
-        "score": 0.3735
+        "score": 0.3732
       },
       {
         "word": "people",
-        "score": 0.2268
+        "score": 0.2266
       },
       {
         "word": "attention",
-        "score": 0.1934
+        "score": 0.1932
       },
       {
         "word": "did",
-        "score": 0.1502
+        "score": 0.1501
       },
       {
         "word": "successful",
-        "score": 0.1468
+        "score": 0.1467
       },
       {
         "word": "just",
-        "score": 0.1324
+        "score": 0.1323
       },
       {
         "word": "important",
-        "score": 0.1232
-      },
-      {
-        "word": "public",
-        "score": 0.1197
+        "score": 0.123
       },
       {
         "word": "culture",
-        "score": 0.1197
+        "score": 0.1196
+      },
+      {
+        "word": "public",
+        "score": 0.1196
       }
     ],
     "http://www.paulgraham.com/bias.html": [
       {
+        "word": "technique",
+        "score": 0.3767
+      },
+      {
         "word": "type",
-        "score": 0.3679
+        "score": 0.3408
       },
       {
         "word": "performance",
-        "score": 0.3219
+        "score": 0.2982
       },
       {
         "word": "process",
-        "score": 0.2754
+        "score": 0.2551
       },
       {
         "word": "study",
-        "score": 0.2467
+        "score": 0.2285
       },
       {
         "word": "means",
-        "score": 0.2284
+        "score": 0.2115
       },
       {
         "word": "surprise",
-        "score": 0.2214
+        "score": 0.205
       },
       {
         "word": "round",
-        "score": 0.2175
+        "score": 0.2015
       },
       {
         "word": "capital",
-        "score": 0.1577
+        "score": 0.1461
       },
       {
         "word": "successful",
-        "score": 0.1525
-      },
-      {
-        "word": "founders",
-        "score": 0.1429
+        "score": 0.1412
       }
     ],
     "http://www.paulgraham.com/talk.html": [
@@ -2691,43 +2691,43 @@
     "http://www.paulgraham.com/aord.html": [
       {
         "word": "growth",
-        "score": 0.4545
+        "score": 0.454
       },
       {
         "word": "default",
-        "score": 0.4472
+        "score": 0.4467
       },
       {
         "word": "dead",
-        "score": 0.3349
+        "score": 0.3345
       },
       {
         "word": "founders",
-        "score": 0.2471
+        "score": 0.2468
       },
       {
         "word": "investors",
-        "score": 0.1764
+        "score": 0.1762
       },
       {
         "word": "product",
-        "score": 0.1549
+        "score": 0.1548
       },
       {
         "word": "hiring",
-        "score": 0.1534
+        "score": 0.1532
       },
       {
         "word": "raise",
-        "score": 0.1435
+        "score": 0.1434
       },
       {
         "word": "revenue",
-        "score": 0.1348
+        "score": 0.1346
       },
       {
         "word": "fast",
-        "score": 0.125
+        "score": 0.1248
       }
     ],
     "http://www.paulgraham.com/safe.html": [
@@ -2740,11 +2740,11 @@
         "score": 0.3114
       },
       {
-        "word": "growth",
+        "word": "month",
         "score": 0.2473
       },
       {
-        "word": "month",
+        "word": "growth",
         "score": 0.2473
       },
       {
@@ -2943,43 +2943,43 @@
     "http://www.paulgraham.com/corpdev.html": [
       {
         "word": "sell",
-        "score": 0.3664
+        "score": 0.3659
       },
       {
         "word": "offer",
-        "score": 0.3113
+        "score": 0.3109
       },
       {
         "word": "talk",
-        "score": 0.2112
+        "score": 0.2109
       },
       {
         "word": "company",
-        "score": 0.2018
+        "score": 0.2015
       },
       {
         "word": "price",
-        "score": 0.1993
+        "score": 0.1991
       },
       {
         "word": "founders",
-        "score": 0.1896
+        "score": 0.1894
       },
       {
         "word": "want",
-        "score": 0.1818
+        "score": 0.1816
       },
       {
         "word": "companies",
-        "score": 0.1722
+        "score": 0.172
       },
       {
         "word": "buy",
-        "score": 0.1687
+        "score": 0.1685
       },
       {
         "word": "surprisingly",
-        "score": 0.1608
+        "score": 0.1606
       }
     ],
     "http://www.paulgraham.com/95.html": [
@@ -3027,43 +3027,43 @@
     "http://www.paulgraham.com/ecw.html": [
       {
         "word": "change",
-        "score": 0.3682
+        "score": 0.3671
       },
       {
         "word": "ideas",
-        "score": 0.3223
+        "score": 0.3213
       },
       {
         "word": "opinions",
-        "score": 0.2314
+        "score": 0.2307
       },
       {
         "word": "predict",
-        "score": 0.2122
+        "score": 0.2115
       },
       {
         "word": "people",
-        "score": 0.1942
+        "score": 0.1936
       },
       {
         "word": "expert",
-        "score": 0.1616
+        "score": 0.161
       },
       {
         "word": "experts",
-        "score": 0.1557
+        "score": 0.1552
       },
       {
         "word": "minded",
-        "score": 0.1539
+        "score": 0.1534
       },
       {
         "word": "come",
-        "score": 0.1424
+        "score": 0.1419
       },
       {
         "word": "investors",
-        "score": 0.1328
+        "score": 0.1324
       }
     ],
     "http://www.paulgraham.com/know.html": [
@@ -3195,53 +3195,53 @@
     "http://www.paulgraham.com/before.html": [
       {
         "word": "startup",
-        "score": 0.4226
+        "score": 0.4231
       },
       {
         "word": "startups",
-        "score": 0.2788
+        "score": 0.2791
       },
       {
         "word": "college",
-        "score": 0.2119
+        "score": 0.2121
       },
       {
         "word": "founders",
-        "score": 0.1776
+        "score": 0.1778
       },
       {
         "word": "life",
-        "score": 0.1613
+        "score": 0.1615
       },
       {
         "word": "start",
-        "score": 0.1583
+        "score": 0.1585
       },
       {
         "word": "ideas",
-        "score": 0.1515
+        "score": 0.1517
       },
       {
         "word": "starting",
-        "score": 0.142
+        "score": 0.1421
       },
       {
         "word": "people",
-        "score": 0.1362
+        "score": 0.1364
       },
       {
         "word": "universities",
-        "score": 0.1291
+        "score": 0.1292
       }
     ],
     "http://www.paulgraham.com/fr.html": [
       {
         "word": "fundraising",
-        "score": 0.5379
+        "score": 0.5378
       },
       {
         "word": "investors",
-        "score": 0.4597
+        "score": 0.4596
       },
       {
         "word": "raise",
@@ -3249,11 +3249,11 @@
       },
       {
         "word": "investor",
-        "score": 0.2575
+        "score": 0.2574
       },
       {
         "word": "money",
-        "score": 0.2374
+        "score": 0.2373
       },
       {
         "word": "valuation",
@@ -3273,7 +3273,7 @@
       },
       {
         "word": "startups",
-        "score": 0.1172
+        "score": 0.1171
       }
     ],
     "http://www.paulgraham.com/herd.html": [
@@ -3321,11 +3321,11 @@
     "http://www.paulgraham.com/convince.html": [
       {
         "word": "investors",
-        "score": 0.6287
+        "score": 0.6286
       },
       {
         "word": "convince",
-        "score": 0.2828
+        "score": 0.2827
       },
       {
         "word": "investing",
@@ -3337,7 +3337,7 @@
       },
       {
         "word": "founders",
-        "score": 0.1468
+        "score": 0.1467
       },
       {
         "word": "market",
@@ -3363,99 +3363,99 @@
     "http://www.paulgraham.com/ds.html": [
       {
         "word": "users",
-        "score": 0.521
+        "score": 0.518
       },
       {
         "word": "founders",
-        "score": 0.2614
+        "score": 0.2599
       },
       {
         "word": "startups",
-        "score": 0.2606
+        "score": 0.2592
       },
       {
         "word": "big",
-        "score": 0.1842
+        "score": 0.1832
       },
       {
         "word": "user",
-        "score": 0.169
+        "score": 0.1681
       },
       {
         "word": "launch",
-        "score": 0.1448
+        "score": 0.144
       },
       {
         "word": "usually",
-        "score": 0.1316
+        "score": 0.1309
       },
       {
         "word": "market",
-        "score": 0.1265
+        "score": 0.1258
       },
       {
         "word": "startup",
-        "score": 0.1254
+        "score": 0.1247
       },
       {
         "word": "initially",
-        "score": 0.1203
+        "score": 0.1197
       }
     ],
     "http://www.paulgraham.com/invtrend.html": [
       {
         "word": "startups",
-        "score": 0.3026
+        "score": 0.3012
       },
       {
         "word": "series",
-        "score": 0.2955
+        "score": 0.2942
       },
       {
         "word": "investors",
-        "score": 0.2933
+        "score": 0.2919
       },
       {
         "word": "founders",
-        "score": 0.2232
+        "score": 0.2222
       },
       {
         "word": "vcs",
-        "score": 0.1955
+        "score": 0.1946
       },
       {
         "word": "company",
-        "score": 0.187
+        "score": 0.1862
       },
       {
         "word": "big",
-        "score": 0.1825
+        "score": 0.1817
       },
       {
         "word": "number",
-        "score": 0.1821
+        "score": 0.1812
       },
       {
         "word": "rounds",
-        "score": 0.1722
+        "score": 0.1714
       },
       {
         "word": "money",
-        "score": 0.1582
+        "score": 0.1575
       }
     ],
     "http://www.paulgraham.com/startupideas.html": [
       {
         "word": "ideas",
-        "score": 0.3792
+        "score": 0.379
       },
       {
         "word": "startup",
-        "score": 0.3343
+        "score": 0.3341
       },
       {
         "word": "idea",
-        "score": 0.2797
+        "score": 0.2796
       },
       {
         "word": "filter",
@@ -3463,7 +3463,7 @@
       },
       {
         "word": "users",
-        "score": 0.1806
+        "score": 0.1805
       },
       {
         "word": "build",
@@ -3471,19 +3471,19 @@
       },
       {
         "word": "good",
-        "score": 0.1579
+        "score": 0.1578
       },
       {
         "word": "people",
-        "score": 0.1496
+        "score": 0.1495
       },
       {
         "word": "problems",
-        "score": 0.1357
+        "score": 0.1356
       },
       {
         "word": "things",
-        "score": 0.1353
+        "score": 0.1352
       }
     ],
     "http://www.paulgraham.com/hw.html": [
@@ -3531,7 +3531,7 @@
     "http://www.paulgraham.com/growth.html": [
       {
         "word": "growth",
-        "score": 0.5373
+        "score": 0.5374
       },
       {
         "word": "startup",
@@ -3539,7 +3539,7 @@
       },
       {
         "word": "startups",
-        "score": 0.2695
+        "score": 0.2696
       },
       {
         "word": "rate",
@@ -3547,11 +3547,11 @@
       },
       {
         "word": "company",
-        "score": 0.1926
+        "score": 0.1927
       },
       {
         "word": "week",
-        "score": 0.187
+        "score": 0.1871
       },
       {
         "word": "successful",
@@ -3573,43 +3573,43 @@
     "http://www.paulgraham.com/swan.html": [
       {
         "word": "big",
-        "score": 0.2978
+        "score": 0.2958
       },
       {
         "word": "demo",
-        "score": 0.2897
+        "score": 0.2878
       },
       {
         "word": "probability",
-        "score": 0.2845
+        "score": 0.2826
       },
       {
         "word": "winners",
-        "score": 0.2545
+        "score": 0.2528
       },
       {
         "word": "startups",
-        "score": 0.2004
+        "score": 0.199
       },
       {
         "word": "succeed",
-        "score": 0.1942
+        "score": 0.1929
       },
       {
         "word": "investors",
-        "score": 0.1809
+        "score": 0.1797
       },
       {
         "word": "startup",
-        "score": 0.179
+        "score": 0.1778
       },
       {
         "word": "returns",
-        "score": 0.1765
+        "score": 0.1753
       },
       {
         "word": "day",
-        "score": 0.1761
+        "score": 0.1749
       }
     ],
     "http://www.paulgraham.com/todo.html": [
@@ -3699,43 +3699,43 @@
     "http://www.paulgraham.com/ycstart.html": [
       {
         "word": "summer",
-        "score": 0.41
+        "score": 0.4086
       },
       {
         "word": "fund",
-        "score": 0.2907
+        "score": 0.2897
       },
       {
         "word": "funding",
-        "score": 0.2309
+        "score": 0.2301
       },
       {
         "word": "batch",
-        "score": 0.2041
+        "score": 0.2034
       },
       {
         "word": "seed",
-        "score": 0.2012
+        "score": 0.2005
       },
       {
         "word": "combinator",
-        "score": 0.2004
+        "score": 0.1997
       },
       {
         "word": "time",
-        "score": 0.1617
+        "score": 0.1612
       },
       {
         "word": "got",
-        "score": 0.1539
+        "score": 0.1534
       },
       {
         "word": "startups",
-        "score": 0.1509
+        "score": 0.1504
       },
       {
         "word": "harvard",
-        "score": 0.1474
+        "score": 0.1469
       }
     ],
     "http://www.paulgraham.com/property.html": [
@@ -3783,85 +3783,85 @@
     "http://www.paulgraham.com/ambitious.html": [
       {
         "word": "email",
-        "score": 0.2646
+        "score": 0.2644
       },
       {
         "word": "search",
-        "score": 0.24
+        "score": 0.2397
       },
       {
         "word": "apple",
-        "score": 0.2291
+        "score": 0.2289
       },
       {
         "word": "google",
-        "score": 0.2019
+        "score": 0.2016
       },
       {
         "word": "future",
-        "score": 0.174
+        "score": 0.1739
       },
       {
         "word": "people",
-        "score": 0.1676
+        "score": 0.1674
       },
       {
         "word": "way",
-        "score": 0.1438
+        "score": 0.1437
       },
       {
         "word": "startup",
-        "score": 0.1418
+        "score": 0.1416
       },
       {
         "word": "like",
-        "score": 0.1389
+        "score": 0.1388
       },
       {
         "word": "slow",
-        "score": 0.1348
+        "score": 0.1347
       }
     ],
     "http://www.paulgraham.com/word.html": [
       {
         "word": "groups",
-        "score": 0.2832
+        "score": 0.284
       },
       {
         "word": "founders",
-        "score": 0.2767
+        "score": 0.2775
       },
       {
         "word": "lead",
-        "score": 0.229
+        "score": 0.2296
       },
       {
         "word": "lack",
-        "score": 0.2124
+        "score": 0.213
       },
       {
         "word": "say",
-        "score": 0.2102
+        "score": 0.2109
       },
       {
         "word": "startups",
-        "score": 0.2084
+        "score": 0.209
       },
       {
         "word": "talk",
-        "score": 0.1797
+        "score": 0.1803
       },
       {
         "word": "said",
-        "score": 0.17
+        "score": 0.1705
       },
       {
         "word": "process",
-        "score": 0.1599
+        "score": 0.1604
       },
       {
         "word": "successful",
-        "score": 0.1476
+        "score": 0.148
       }
     ],
     "http://www.paulgraham.com/schlep.html": [
@@ -3909,69 +3909,69 @@
     "http://www.paulgraham.com/vw.html": [
       {
         "word": "stores",
-        "score": 0.3396
+        "score": 0.3385
       },
       {
         "word": "site",
-        "score": 0.2658
+        "score": 0.2649
       },
       {
         "word": "online",
-        "score": 0.2635
+        "score": 0.2626
       },
       {
         "word": "viaweb",
-        "score": 0.2265
+        "score": 0.2257
       },
       {
         "word": "month",
-        "score": 0.2074
+        "score": 0.2066
       },
       {
         "word": "servers",
-        "score": 0.1933
+        "score": 0.1927
       },
       {
         "word": "days",
-        "score": 0.1755
+        "score": 0.1749
       },
       {
         "word": "press",
-        "score": 0.1732
+        "score": 0.1726
       },
       {
         "word": "users",
-        "score": 0.1629
+        "score": 0.1624
       },
       {
         "word": "page",
-        "score": 0.1608
+        "score": 0.1603
       }
     ],
     "http://www.paulgraham.com/hubs.html": [
       {
         "word": "startups",
-        "score": 0.3822
+        "score": 0.3823
       },
       {
         "word": "valley",
-        "score": 0.3765
+        "score": 0.3766
       },
       {
         "word": "startup",
-        "score": 0.3529
+        "score": 0.3531
       },
       {
         "word": "meetings",
-        "score": 0.2751
+        "score": 0.2752
       },
       {
         "word": "chance",
-        "score": 0.2694
+        "score": 0.2695
       },
       {
         "word": "people",
-        "score": 0.2671
+        "score": 0.2672
       },
       {
         "word": "places",
@@ -3979,11 +3979,11 @@
       },
       {
         "word": "starting",
-        "score": 0.1651
+        "score": 0.1652
       },
       {
         "word": "happen",
-        "score": 0.1306
+        "score": 0.1307
       },
       {
         "word": "silicon",
@@ -3993,19 +3993,19 @@
     "http://www.paulgraham.com/patentpledge.html": [
       {
         "word": "patent",
-        "score": 0.6467
+        "score": 0.647
       },
       {
         "word": "patents",
-        "score": 0.5998
+        "score": 0.6002
       },
       {
         "word": "companies",
-        "score": 0.1958
+        "score": 0.1959
       },
       {
         "word": "government",
-        "score": 0.1248
+        "score": 0.1249
       },
       {
         "word": "problem",
@@ -4021,7 +4021,7 @@
       },
       {
         "word": "technology",
-        "score": 0.0906
+        "score": 0.0907
       },
       {
         "word": "startups",
@@ -4035,43 +4035,43 @@
     "http://www.paulgraham.com/airbnb.html": [
       {
         "word": "fred",
-        "score": 0.7179
+        "score": 0.667
+      },
+      {
+        "word": "airbnb",
+        "score": 0.3697
       },
       {
         "word": "subject",
-        "score": 0.3769
+        "score": 0.3502
       },
       {
         "word": "paul",
-        "score": 0.3668
+        "score": 0.3408
       },
       {
         "word": "meet",
-        "score": 0.2159
+        "score": 0.2006
       },
       {
         "word": "meeting",
-        "score": 0.1627
+        "score": 0.1512
       },
       {
         "word": "invest",
-        "score": 0.1099
+        "score": 0.1021
       },
       {
         "word": "guys",
-        "score": 0.1044
+        "score": 0.097
       },
       {
         "word": "market",
-        "score": 0.083
+        "score": 0.0771
       },
       {
         "word": "team",
-        "score": 0.0719
-      },
-      {
-        "word": "big",
-        "score": 0.0696
+        "score": 0.0668
       }
     ],
     "http://www.paulgraham.com/control.html": [
@@ -4161,65 +4161,65 @@
     "http://www.paulgraham.com/founders.html": [
       {
         "word": "determination",
-        "score": 0.337
+        "score": 0.3321
       },
       {
         "word": "founders",
-        "score": 0.3181
+        "score": 0.3135
       },
       {
         "word": "intelligence",
-        "score": 0.3025
+        "score": 0.2981
       },
       {
         "word": "startup",
-        "score": 0.2074
+        "score": 0.2044
+      },
+      {
+        "word": "airbnb",
+        "score": 0.1691
       },
       {
         "word": "good",
-        "score": 0.1608
+        "score": 0.1585
       },
       {
         "word": "quality",
-        "score": 0.1476
+        "score": 0.1455
       },
       {
         "word": "like",
-        "score": 0.1468
+        "score": 0.1446
       },
       {
         "word": "relationship",
-        "score": 0.142
+        "score": 0.14
       },
       {
         "word": "ideas",
-        "score": 0.1357
-      },
-      {
-        "word": "funded",
-        "score": 0.1347
+        "score": 0.1337
       }
     ],
     "http://www.paulgraham.com/superangels.html": [
       {
         "word": "angels",
-        "score": 0.5038
+        "score": 0.5036
       },
       {
         "word": "super",
-        "score": 0.4069
+        "score": 0.4068
       },
       {
         "word": "vcs",
-        "score": 0.4061
+        "score": 0.406
       },
       {
         "word": "angel",
-        "score": 0.2947
+        "score": 0.2946
       },
       {
         "word": "round",
-        "score": 0.2229
+        "score": 0.2228
       },
       {
         "word": "valuations",
@@ -4227,11 +4227,11 @@
       },
       {
         "word": "series",
-        "score": 0.1697
+        "score": 0.1696
       },
       {
         "word": "rounds",
-        "score": 0.1506
+        "score": 0.1505
       },
       {
         "word": "startups",
@@ -4239,7 +4239,7 @@
       },
       {
         "word": "raise",
-        "score": 0.121
+        "score": 0.1209
       }
     ],
     "http://www.paulgraham.com/seesv.html": [
@@ -4287,53 +4287,53 @@
     "http://www.paulgraham.com/hiresfund.html": [
       {
         "word": "investors",
-        "score": 0.5437
+        "score": 0.5443
       },
       {
         "word": "rounds",
-        "score": 0.3569
+        "score": 0.3572
       },
       {
         "word": "size",
-        "score": 0.213
+        "score": 0.2132
       },
       {
         "word": "fixed",
-        "score": 0.2125
+        "score": 0.2127
       },
       {
         "word": "startups",
-        "score": 0.1912
+        "score": 0.1914
       },
       {
         "word": "startup",
-        "score": 0.1839
+        "score": 0.1841
       },
       {
         "word": "deals",
-        "score": 0.1653
+        "score": 0.1655
       },
       {
         "word": "round",
-        "score": 0.161
+        "score": 0.1611
       },
       {
         "word": "different",
-        "score": 0.1499
+        "score": 0.1501
       },
       {
         "word": "series",
-        "score": 0.1313
+        "score": 0.1314
       }
     ],
     "http://www.paulgraham.com/yahoo.html": [
       {
         "word": "yahoo",
-        "score": 0.6687
+        "score": 0.6689
       },
       {
         "word": "programmers",
-        "score": 0.2872
+        "score": 0.2873
       },
       {
         "word": "search",
@@ -4341,7 +4341,7 @@
       },
       {
         "word": "company",
-        "score": 0.2435
+        "score": 0.2436
       },
       {
         "word": "google",
@@ -4357,7 +4357,7 @@
       },
       {
         "word": "revenue",
-        "score": 0.1278
+        "score": 0.1279
       },
       {
         "word": "technology",
@@ -4413,43 +4413,43 @@
     "http://www.paulgraham.com/addiction.html": [
       {
         "word": "things",
-        "score": 0.3027
+        "score": 0.3022
       },
       {
         "word": "internet",
-        "score": 0.2748
+        "score": 0.2743
       },
       {
         "word": "want",
-        "score": 0.2123
+        "score": 0.212
       },
       {
         "word": "increasingly",
-        "score": 0.2104
+        "score": 0.21
       },
       {
         "word": "people",
-        "score": 0.1921
+        "score": 0.1918
       },
       {
         "word": "world",
-        "score": 0.1757
+        "score": 0.1754
       },
       {
         "word": "unless",
-        "score": 0.1676
+        "score": 0.1673
       },
       {
         "word": "process",
-        "score": 0.1626
+        "score": 0.1623
       },
       {
         "word": "new",
-        "score": 0.156
+        "score": 0.1557
       },
       {
         "word": "years",
-        "score": 0.1485
+        "score": 0.1483
       }
     ],
     "http://www.paulgraham.com/top.html": [
@@ -4497,43 +4497,43 @@
     "http://www.paulgraham.com/organic.html": [
       {
         "word": "startup",
-        "score": 0.3125
+        "score": 0.312
       },
       {
         "word": "ideas",
-        "score": 0.3066
+        "score": 0.3061
       },
       {
         "word": "apple",
-        "score": 0.2735
+        "score": 0.2731
       },
       {
         "word": "users",
-        "score": 0.2078
+        "score": 0.2074
       },
       {
         "word": "facebook",
-        "score": 0.2046
+        "score": 0.2042
       },
       {
         "word": "broken",
-        "score": 0.1926
+        "score": 0.1922
       },
       {
         "word": "online",
-        "score": 0.1793
+        "score": 0.179
       },
       {
         "word": "company",
-        "score": 0.1673
+        "score": 0.167
       },
       {
         "word": "type",
-        "score": 0.1653
+        "score": 0.165
       },
       {
         "word": "viaweb",
-        "score": 0.1444
+        "score": 0.1442
       }
     ],
     "http://www.paulgraham.com/apple.html": [
@@ -4581,11 +4581,11 @@
     "http://www.paulgraham.com/really.html": [
       {
         "word": "founders",
-        "score": 0.3806
+        "score": 0.3807
       },
       {
         "word": "surprised",
-        "score": 0.3335
+        "score": 0.3336
       },
       {
         "word": "startup",
@@ -4593,15 +4593,15 @@
       },
       {
         "word": "startups",
-        "score": 0.1987
+        "score": 0.1988
       },
       {
         "word": "relationship",
-        "score": 0.1661
+        "score": 0.1662
       },
       {
         "word": "people",
-        "score": 0.1643
+        "score": 0.1644
       },
       {
         "word": "like",
@@ -4609,7 +4609,7 @@
       },
       {
         "word": "fun",
-        "score": 0.1346
+        "score": 0.1347
       },
       {
         "word": "founder",
@@ -4665,23 +4665,23 @@
     "http://www.paulgraham.com/publishing.html": [
       {
         "word": "content",
-        "score": 0.5885
+        "score": 0.5887
       },
       {
         "word": "information",
-        "score": 0.2521
+        "score": 0.2522
       },
       {
         "word": "selling",
-        "score": 0.2475
+        "score": 0.2476
       },
       {
         "word": "software",
-        "score": 0.2324
+        "score": 0.2325
       },
       {
         "word": "business",
-        "score": 0.216
+        "score": 0.2161
       },
       {
         "word": "books",
@@ -4689,11 +4689,11 @@
       },
       {
         "word": "people",
-        "score": 0.2019
+        "score": 0.202
       },
       {
         "word": "pay",
-        "score": 0.1689
+        "score": 0.169
       },
       {
         "word": "forms",
@@ -4701,7 +4701,7 @@
       },
       {
         "word": "money",
-        "score": 0.1197
+        "score": 0.1198
       }
     ],
     "http://www.paulgraham.com/nthings.html": [
@@ -4791,43 +4791,43 @@
     "http://www.paulgraham.com/kate.html": [
       {
         "word": "startups",
-        "score": 0.3252
+        "score": 0.326
       },
       {
         "word": "startup",
-        "score": 0.2433
+        "score": 0.2439
       },
       {
         "word": "founders",
-        "score": 0.2399
+        "score": 0.2405
       },
       {
         "word": "valley",
-        "score": 0.2373
+        "score": 0.2378
       },
       {
         "word": "advice",
-        "score": 0.2245
+        "score": 0.225
       },
       {
         "word": "silicon",
-        "score": 0.1842
+        "score": 0.1846
       },
       {
         "word": "people",
-        "score": 0.1699
+        "score": 0.1703
       },
       {
         "word": "world",
-        "score": 0.1665
+        "score": 0.1669
       },
       {
         "word": "way",
-        "score": 0.1273
+        "score": 0.1276
       },
       {
         "word": "help",
-        "score": 0.1259
+        "score": 0.1262
       }
     ],
     "http://www.paulgraham.com/segway.html": [
@@ -4917,43 +4917,43 @@
     "http://www.paulgraham.com/makersschedule.html": [
       {
         "word": "manager",
-        "score": 0.5792
+        "score": 0.5786
       },
       {
         "word": "meetings",
-        "score": 0.3293
+        "score": 0.329
       },
       {
         "word": "day",
-        "score": 0.3223
+        "score": 0.322
       },
       {
         "word": "meeting",
-        "score": 0.2986
+        "score": 0.2983
       },
       {
         "word": "meet",
-        "score": 0.208
+        "score": 0.2078
       },
       {
         "word": "hour",
-        "score": 0.1556
+        "score": 0.1554
       },
       {
         "word": "time",
-        "score": 0.1444
+        "score": 0.1443
       },
       {
         "word": "hours",
-        "score": 0.1341
+        "score": 0.134
       },
       {
         "word": "office",
-        "score": 0.0974
+        "score": 0.0973
       },
       {
         "word": "people",
-        "score": 0.0968
+        "score": 0.0967
       }
     ],
     "http://www.paulgraham.com/revolution.html": [
@@ -4987,7 +4987,7 @@
       },
       {
         "word": "industrial",
-        "score": 0.1454
+        "score": 0.1453
       },
       {
         "word": "government",
@@ -5085,43 +5085,43 @@
     "http://www.paulgraham.com/5founders.html": [
       {
         "word": "steve",
-        "score": 0.3888
+        "score": 0.3895
       },
       {
         "word": "google",
-        "score": 0.3216
+        "score": 0.3222
       },
       {
         "word": "valley",
-        "score": 0.2203
+        "score": 0.2207
       },
       {
         "word": "startup",
-        "score": 0.1936
+        "score": 0.194
       },
       {
         "word": "design",
-        "score": 0.1925
+        "score": 0.1929
       },
       {
         "word": "apple",
-        "score": 0.1695
+        "score": 0.1698
       },
       {
         "word": "founder",
-        "score": 0.1474
+        "score": 0.1477
       },
       {
         "word": "jobs",
-        "score": 0.1387
+        "score": 0.139
       },
       {
         "word": "sam",
-        "score": 0.1378
+        "score": 0.1381
       },
       {
         "word": "people",
-        "score": 0.1352
+        "score": 0.1355
       }
     ],
     "http://www.paulgraham.com/relres.html": [
@@ -5169,39 +5169,39 @@
     "http://www.paulgraham.com/angelinvesting.html": [
       {
         "word": "angel",
-        "score": 0.4005
+        "score": 0.4003
       },
       {
         "word": "invest",
-        "score": 0.2713
+        "score": 0.2712
       },
       {
         "word": "valuation",
-        "score": 0.2595
+        "score": 0.2594
       },
       {
         "word": "investor",
-        "score": 0.2327
+        "score": 0.2326
       },
       {
         "word": "startup",
-        "score": 0.2132
+        "score": 0.2131
       },
       {
         "word": "company",
-        "score": 0.2038
+        "score": 0.2037
       },
       {
         "word": "startups",
-        "score": 0.1979
+        "score": 0.1978
       },
       {
         "word": "investing",
-        "score": 0.1916
+        "score": 0.1915
       },
       {
         "word": "investors",
-        "score": 0.1901
+        "score": 0.19
       },
       {
         "word": "founders",
@@ -5211,77 +5211,77 @@
     "http://www.paulgraham.com/convergence.html": [
       {
         "word": "internet",
-        "score": 0.4967
+        "score": 0.4951
       },
       {
         "word": "shows",
-        "score": 0.4048
+        "score": 0.4035
       },
       {
         "word": "watch",
-        "score": 0.2724
+        "score": 0.2715
       },
       {
         "word": "computers",
-        "score": 0.2536
+        "score": 0.2528
       },
       {
         "word": "people",
-        "score": 0.193
+        "score": 0.1924
       },
       {
         "word": "local",
-        "score": 0.1828
+        "score": 0.1823
       },
       {
         "word": "produce",
-        "score": 0.129
+        "score": 0.1286
       },
       {
         "word": "computer",
-        "score": 0.118
+        "score": 0.1177
       },
       {
         "word": "force",
-        "score": 0.1122
+        "score": 0.1118
       },
       {
         "word": "want",
-        "score": 0.0995
+        "score": 0.0992
       }
     ],
     "http://www.paulgraham.com/maybe.html": [
       {
         "word": "startups",
-        "score": 0.5332
+        "score": 0.5333
       },
       {
         "word": "city",
-        "score": 0.4111
+        "score": 0.4112
       },
       {
         "word": "valley",
-        "score": 0.2292
+        "score": 0.2293
       },
       {
         "word": "town",
-        "score": 0.2284
+        "score": 0.2285
       },
       {
         "word": "silicon",
-        "score": 0.2156
+        "score": 0.2157
       },
       {
         "word": "local",
-        "score": 0.1939
+        "score": 0.194
       },
       {
         "word": "million",
-        "score": 0.1614
+        "score": 0.1615
       },
       {
         "word": "dollars",
-        "score": 0.1305
+        "score": 0.1306
       },
       {
         "word": "vcs",
@@ -5289,7 +5289,7 @@
       },
       {
         "word": "startup",
-        "score": 0.1221
+        "score": 0.1222
       }
     ],
     "http://www.paulgraham.com/hackernews.html": [
@@ -5379,85 +5379,85 @@
     "http://www.paulgraham.com/identity.html": [
       {
         "word": "politics",
-        "score": 0.4495
+        "score": 0.4502
       },
       {
         "word": "people",
-        "score": 0.3999
+        "score": 0.4006
       },
       {
         "word": "topic",
-        "score": 0.2228
+        "score": 0.2232
       },
       {
         "word": "languages",
-        "score": 0.2207
-      },
-      {
-        "word": "political",
-        "score": 0.1857
+        "score": 0.2211
       },
       {
         "word": "topics",
-        "score": 0.1857
+        "score": 0.186
+      },
+      {
+        "word": "political",
+        "score": 0.186
       },
       {
         "word": "threshold",
-        "score": 0.1836
+        "score": 0.1839
       },
       {
         "word": "programmers",
-        "score": 0.1427
+        "score": 0.1429
       },
       {
         "word": "programming",
-        "score": 0.1377
+        "score": 0.1379
       },
       {
         "word": "questions",
-        "score": 0.1304
+        "score": 0.1306
       }
     ],
     "http://www.paulgraham.com/credentials.html": [
       {
         "word": "performance",
-        "score": 0.4144
+        "score": 0.416
       },
       {
         "word": "schools",
-        "score": 0.2925
+        "score": 0.2937
       },
       {
         "word": "organizations",
-        "score": 0.271
+        "score": 0.272
       },
       {
         "word": "parents",
-        "score": 0.195
+        "score": 0.1958
       },
       {
         "word": "organization",
-        "score": 0.1564
+        "score": 0.1571
       },
       {
         "word": "large",
-        "score": 0.1556
+        "score": 0.1563
       },
       {
         "word": "market",
-        "score": 0.1519
+        "score": 0.1525
       },
       {
         "word": "society",
-        "score": 0.1494
+        "score": 0.15
       },
       {
         "word": "companies",
-        "score": 0.1441
+        "score": 0.1447
       },
       {
         "word": "measure",
-        "score": 0.1417
+        "score": 0.1423
       }
     ],
     "http://www.paulgraham.com/divergence.html": [
@@ -5505,85 +5505,85 @@
     "http://www.paulgraham.com/highres.html": [
       {
         "word": "organizations",
-        "score": 0.3773
+        "score": 0.3776
       },
       {
         "word": "economy",
-        "score": 0.287
+        "score": 0.2872
       },
       {
         "word": "industrial",
-        "score": 0.2262
+        "score": 0.2264
       },
       {
         "word": "ambitious",
-        "score": 0.219
+        "score": 0.2191
       },
       {
         "word": "startups",
-        "score": 0.2179
+        "score": 0.2181
       },
       {
         "word": "spread",
-        "score": 0.1884
+        "score": 0.1886
       },
       {
         "word": "techniques",
-        "score": 0.1753
+        "score": 0.1754
       },
       {
         "word": "internet",
-        "score": 0.157
+        "score": 0.1571
       },
       {
         "word": "companies",
-        "score": 0.146
+        "score": 0.1461
       },
       {
         "word": "large",
-        "score": 0.13
+        "score": 0.1301
       }
     ],
     "http://www.paulgraham.com/artistsship.html": [
       {
         "word": "cost",
-        "score": 0.4175
+        "score": 0.4185
       },
       {
         "word": "programmers",
-        "score": 0.2682
+        "score": 0.2689
       },
       {
         "word": "companies",
-        "score": 0.2663
+        "score": 0.2669
       },
       {
         "word": "software",
-        "score": 0.2483
+        "score": 0.2489
       },
       {
         "word": "release",
-        "score": 0.2071
+        "score": 0.2076
       },
       {
         "word": "sell",
-        "score": 0.1982
+        "score": 0.1987
       },
       {
         "word": "code",
-        "score": 0.1676
+        "score": 0.168
       },
       {
         "word": "company",
-        "score": 0.1592
+        "score": 0.1596
       },
       {
         "word": "organizations",
-        "score": 0.1251
+        "score": 0.1254
       },
       {
         "word": "best",
-        "score": 0.1182
+        "score": 0.1185
       }
     ],
     "http://www.paulgraham.com/badeconomy.html": [
@@ -5631,19 +5631,19 @@
     "http://www.paulgraham.com/fundraising.html": [
       {
         "word": "investors",
-        "score": 0.528
+        "score": 0.5281
       },
       {
         "word": "raising",
-        "score": 0.3739
+        "score": 0.374
       },
       {
         "word": "money",
-        "score": 0.2395
+        "score": 0.2396
       },
       {
         "word": "startups",
-        "score": 0.2088
+        "score": 0.2089
       },
       {
         "word": "startup",
@@ -5673,127 +5673,127 @@
     "http://www.paulgraham.com/prcmc.html": [
       {
         "word": "company",
-        "score": 0.5562
+        "score": 0.5576
       },
       {
         "word": "companies",
-        "score": 0.3295
+        "score": 0.3303
       },
       {
         "word": "revenues",
-        "score": 0.2286
+        "score": 0.2292
       },
       {
         "word": "manager",
-        "score": 0.2087
+        "score": 0.2092
       },
       {
         "word": "running",
-        "score": 0.1717
+        "score": 0.1721
       },
       {
         "word": "risk",
-        "score": 0.1557
+        "score": 0.1561
       },
       {
         "word": "income",
-        "score": 0.1381
+        "score": 0.1385
       },
       {
         "word": "public",
-        "score": 0.1299
+        "score": 0.1302
       },
       {
         "word": "acquirers",
-        "score": 0.1201
+        "score": 0.1204
       },
       {
         "word": "manage",
-        "score": 0.107
+        "score": 0.1073
       }
     ],
     "http://www.paulgraham.com/cities.html": [
       {
         "word": "york",
-        "score": 0.3734
+        "score": 0.3731
       },
       {
         "word": "message",
-        "score": 0.3521
+        "score": 0.3517
       },
       {
         "word": "cambridge",
-        "score": 0.3465
+        "score": 0.3462
       },
       {
         "word": "city",
-        "score": 0.2995
+        "score": 0.2992
       },
       {
         "word": "valley",
-        "score": 0.2308
+        "score": 0.2306
       },
       {
         "word": "people",
-        "score": 0.1988
+        "score": 0.1987
       },
       {
         "word": "new",
-        "score": 0.1938
+        "score": 0.1936
       },
       {
         "word": "silicon",
-        "score": 0.1885
+        "score": 0.1884
       },
       {
         "word": "cities",
-        "score": 0.1705
+        "score": 0.1703
       },
       {
         "word": "ambition",
-        "score": 0.169
+        "score": 0.1688
       }
     ],
     "http://www.paulgraham.com/distraction.html": [
       {
         "word": "internet",
-        "score": 0.4802
+        "score": 0.4798
       },
       {
         "word": "computer",
-        "score": 0.3923
+        "score": 0.3919
       },
       {
         "word": "work",
-        "score": 0.2214
+        "score": 0.2212
       },
       {
         "word": "sit",
-        "score": 0.1949
+        "score": 0.1947
       },
       {
         "word": "avoid",
-        "score": 0.182
+        "score": 0.1818
       },
       {
         "word": "time",
-        "score": 0.1803
+        "score": 0.1802
       },
       {
         "word": "watches",
-        "score": 0.1404
+        "score": 0.1403
       },
       {
         "word": "web",
-        "score": 0.1385
+        "score": 0.1384
       },
       {
         "word": "email",
-        "score": 0.1246
+        "score": 0.1245
       },
       {
         "word": "mail",
-        "score": 0.115
+        "score": 0.1149
       }
     ],
     "http://www.paulgraham.com/lies.html": [
@@ -5803,7 +5803,7 @@
       },
       {
         "word": "lies",
-        "score": 0.4193
+        "score": 0.4194
       },
       {
         "word": "parents",
@@ -5811,7 +5811,7 @@
       },
       {
         "word": "lie",
-        "score": 0.3176
+        "score": 0.3177
       },
       {
         "word": "adults",
@@ -5967,53 +5967,53 @@
     "http://www.paulgraham.com/disagree.html": [
       {
         "word": "form",
-        "score": 0.3147
+        "score": 0.315
       },
       {
         "word": "translation",
-        "score": 0.2446
+        "score": 0.2449
       },
       {
         "word": "readers",
-        "score": 0.2432
+        "score": 0.2435
       },
       {
         "word": "forms",
-        "score": 0.2405
+        "score": 0.2408
       },
       {
         "word": "point",
-        "score": 0.2333
+        "score": 0.2335
       },
       {
         "word": "say",
-        "score": 0.233
+        "score": 0.2332
       },
       {
         "word": "help",
-        "score": 0.1755
+        "score": 0.1757
       },
       {
         "word": "mean",
-        "score": 0.1534
+        "score": 0.1535
       },
       {
         "word": "mistaken",
-        "score": 0.1519
+        "score": 0.152
       },
       {
         "word": "names",
-        "score": 0.1443
+        "score": 0.1445
       }
     ],
     "http://www.paulgraham.com/boss.html": [
       {
         "word": "group",
-        "score": 0.3724
+        "score": 0.3723
       },
       {
         "word": "company",
-        "score": 0.2404
+        "score": 0.2403
       },
       {
         "word": "humans",
@@ -6025,11 +6025,11 @@
       },
       {
         "word": "groups",
-        "score": 0.2181
+        "score": 0.218
       },
       {
         "word": "working",
-        "score": 0.2175
+        "score": 0.2174
       },
       {
         "word": "large",
@@ -6045,7 +6045,7 @@
       },
       {
         "word": "startup",
-        "score": 0.1684
+        "score": 0.1683
       }
     ],
     "http://www.paulgraham.com/ycombinator.html": [
@@ -6093,85 +6093,85 @@
     "http://www.paulgraham.com/trolls.html": [
       {
         "word": "people",
-        "score": 0.4278
+        "score": 0.4289
       },
       {
         "word": "news",
-        "score": 0.2544
+        "score": 0.2551
       },
       {
         "word": "reddit",
-        "score": 0.2498
+        "score": 0.2504
       },
       {
         "word": "sites",
-        "score": 0.192
+        "score": 0.1925
       },
       {
         "word": "sense",
-        "score": 0.177
+        "score": 0.1775
       },
       {
         "word": "users",
-        "score": 0.1715
+        "score": 0.1719
       },
       {
         "word": "culture",
-        "score": 0.1693
+        "score": 0.1698
       },
       {
         "word": "say",
-        "score": 0.1691
+        "score": 0.1695
       },
       {
         "word": "things",
-        "score": 0.1474
+        "score": 0.1477
       },
       {
         "word": "face",
-        "score": 0.1462
+        "score": 0.1466
       }
     ],
     "http://www.paulgraham.com/newthings.html": [
       {
         "word": "viaweb",
-        "score": 0.3574
+        "score": 0.3566
       },
       {
         "word": "reddit",
-        "score": 0.3121
+        "score": 0.3114
       },
       {
         "word": "people",
-        "score": 0.2363
+        "score": 0.2358
       },
       {
         "word": "essays",
-        "score": 0.1941
+        "score": 0.1936
       },
       {
         "word": "combinator",
-        "score": 0.1779
+        "score": 0.1775
       },
       {
         "word": "like",
-        "score": 0.171
+        "score": 0.1706
       },
       {
         "word": "simple",
-        "score": 0.1585
+        "score": 0.1581
       },
       {
         "word": "problems",
-        "score": 0.157
+        "score": 0.1566
       },
       {
         "word": "initial",
-        "score": 0.1472
+        "score": 0.1469
       },
       {
         "word": "design",
-        "score": 0.1442
+        "score": 0.1438
       }
     ],
     "http://www.paulgraham.com/startuphubs.html": [
@@ -6219,7 +6219,7 @@
     "http://www.paulgraham.com/webstartups.html": [
       {
         "word": "startups",
-        "score": 0.3795
+        "score": 0.3794
       },
       {
         "word": "startup",
@@ -6231,7 +6231,7 @@
       },
       {
         "word": "college",
-        "score": 0.2022
+        "score": 0.2021
       },
       {
         "word": "technology",
@@ -6243,7 +6243,7 @@
       },
       {
         "word": "people",
-        "score": 0.17
+        "score": 0.1699
       },
       {
         "word": "big",
@@ -6261,15 +6261,15 @@
     "http://www.paulgraham.com/philosophy.html": [
       {
         "word": "philosophy",
-        "score": 0.7571
+        "score": 0.7569
       },
       {
         "word": "knowledge",
-        "score": 0.2031
+        "score": 0.203
       },
       {
         "word": "people",
-        "score": 0.152
+        "score": 0.1519
       },
       {
         "word": "math",
@@ -6281,11 +6281,11 @@
       },
       {
         "word": "works",
-        "score": 0.1048
+        "score": 0.1047
       },
       {
         "word": "general",
-        "score": 0.0989
+        "score": 0.0988
       },
       {
         "word": "ideas",
@@ -6303,27 +6303,27 @@
     "http://www.paulgraham.com/colleges.html": [
       {
         "word": "college",
-        "score": 0.5316
+        "score": 0.5318
       },
       {
         "word": "went",
-        "score": 0.291
+        "score": 0.2911
       },
       {
         "word": "people",
-        "score": 0.2228
+        "score": 0.2229
       },
       {
         "word": "learn",
-        "score": 0.174
+        "score": 0.1741
       },
       {
         "word": "harvard",
-        "score": 0.1689
+        "score": 0.169
       },
       {
         "word": "schools",
-        "score": 0.1617
+        "score": 0.1618
       },
       {
         "word": "school",
@@ -6345,35 +6345,35 @@
     "http://www.paulgraham.com/die.html": [
       {
         "word": "startup",
-        "score": 0.4001
+        "score": 0.3998
       },
       {
         "word": "die",
-        "score": 0.3723
+        "score": 0.3721
       },
       {
         "word": "startups",
-        "score": 0.1906
+        "score": 0.1905
       },
       {
         "word": "rich",
-        "score": 0.1887
+        "score": 0.1885
       },
       {
         "word": "working",
-        "score": 0.1869
+        "score": 0.1868
       },
       {
         "word": "school",
-        "score": 0.1753
+        "score": 0.1751
       },
       {
         "word": "going",
-        "score": 0.1647
+        "score": 0.1646
       },
       {
         "word": "grad",
-        "score": 0.1512
+        "score": 0.1511
       },
       {
         "word": "love",
@@ -6381,41 +6381,41 @@
       },
       {
         "word": "death",
-        "score": 0.1421
+        "score": 0.142
       }
     ],
     "http://www.paulgraham.com/head.html": [
       {
         "word": "program",
-        "score": 0.3614
+        "score": 0.3616
       },
       {
         "word": "code",
-        "score": 0.3534
+        "score": 0.3535
       },
       {
         "word": "head",
-        "score": 0.3048
+        "score": 0.3049
       },
       {
         "word": "programmers",
-        "score": 0.2651
+        "score": 0.2652
       },
       {
         "word": "project",
-        "score": 0.2276
+        "score": 0.2277
       },
       {
         "word": "organization",
-        "score": 0.2036
+        "score": 0.2037
       },
       {
         "word": "organizations",
-        "score": 0.1649
+        "score": 0.165
       },
       {
         "word": "working",
-        "score": 0.1569
+        "score": 0.157
       },
       {
         "word": "programming",
@@ -6423,7 +6423,7 @@
       },
       {
         "word": "understand",
-        "score": 0.1441
+        "score": 0.1442
       }
     ],
     "http://www.paulgraham.com/stuff.html": [
@@ -6471,39 +6471,39 @@
     "http://www.paulgraham.com/equity.html": [
       {
         "word": "company",
-        "score": 0.4654
+        "score": 0.4656
       },
       {
         "word": "stock",
-        "score": 0.3577
+        "score": 0.3579
       },
       {
         "word": "deal",
-        "score": 0.3052
+        "score": 0.3053
       },
       {
         "word": "valuation",
-        "score": 0.2818
+        "score": 0.282
       },
       {
         "word": "average",
-        "score": 0.2437
+        "score": 0.2438
       },
       {
         "word": "improve",
-        "score": 0.2329
+        "score": 0.233
       },
       {
         "word": "worth",
-        "score": 0.1718
+        "score": 0.1719
       },
       {
         "word": "hire",
-        "score": 0.1586
+        "score": 0.1587
       },
       {
         "word": "money",
-        "score": 0.1438
+        "score": 0.1439
       },
       {
         "word": "suppose",
@@ -6555,7 +6555,7 @@
     "http://www.paulgraham.com/guidetoinvestors.html": [
       {
         "word": "investors",
-        "score": 0.5118
+        "score": 0.5117
       },
       {
         "word": "vcs",
@@ -6563,7 +6563,7 @@
       },
       {
         "word": "angels",
-        "score": 0.1795
+        "score": 0.1794
       },
       {
         "word": "invest",
@@ -6571,7 +6571,7 @@
       },
       {
         "word": "startup",
-        "score": 0.1707
+        "score": 0.1706
       },
       {
         "word": "founders",
@@ -6597,43 +6597,43 @@
     "http://www.paulgraham.com/judgement.html": [
       {
         "word": "judging",
-        "score": 0.4827
+        "score": 0.4836
       },
       {
         "word": "judge",
-        "score": 0.3221
+        "score": 0.3226
       },
       {
         "word": "team",
-        "score": 0.2953
+        "score": 0.2958
       },
       {
         "word": "goal",
-        "score": 0.2058
+        "score": 0.2061
       },
       {
         "word": "type",
-        "score": 0.1929
+        "score": 0.1932
       },
       {
         "word": "self",
-        "score": 0.1891
+        "score": 0.1895
       },
       {
         "word": "college",
-        "score": 0.1864
+        "score": 0.1868
       },
       {
         "word": "best",
-        "score": 0.1691
+        "score": 0.1694
       },
       {
         "word": "make",
-        "score": 0.1383
+        "score": 0.1386
       },
       {
         "word": "realize",
-        "score": 0.1315
+        "score": 0.1317
       }
     ],
     "http://www.paulgraham.com/microsoft.html": [
@@ -6681,43 +6681,43 @@
     "http://www.paulgraham.com/notnot.html": [
       {
         "word": "startup",
-        "score": 0.3617
+        "score": 0.3619
       },
       {
         "word": "people",
-        "score": 0.2526
+        "score": 0.2528
       },
       {
         "word": "startups",
-        "score": 0.2483
+        "score": 0.2485
       },
       {
         "word": "start",
-        "score": 0.2405
+        "score": 0.2407
       },
       {
         "word": "job",
-        "score": 0.1664
+        "score": 0.1666
       },
       {
         "word": "work",
-        "score": 0.1566
+        "score": 0.1567
       },
       {
         "word": "want",
-        "score": 0.1475
+        "score": 0.1476
       },
       {
         "word": "parents",
-        "score": 0.1459
+        "score": 0.146
       },
       {
         "word": "lot",
-        "score": 0.1283
+        "score": 0.1284
       },
       {
         "word": "think",
-        "score": 0.126
+        "score": 0.1262
       }
     ],
     "http://www.paulgraham.com/wisdom.html": [
@@ -6807,7 +6807,7 @@
     "http://www.paulgraham.com/goodart.html": [
       {
         "word": "art",
-        "score": 0.7499
+        "score": 0.7498
       },
       {
         "word": "taste",
@@ -6891,43 +6891,43 @@
     "http://www.paulgraham.com/mit.html": [
       {
         "word": "startup",
-        "score": 0.3748
+        "score": 0.3731
       },
       {
         "word": "startups",
-        "score": 0.262
+        "score": 0.2608
       },
       {
         "word": "start",
-        "score": 0.2278
+        "score": 0.2267
       },
       {
         "word": "work",
-        "score": 0.2126
+        "score": 0.2116
       },
       {
         "word": "founders",
-        "score": 0.1933
+        "score": 0.1924
       },
       {
         "word": "school",
-        "score": 0.1698
+        "score": 0.1691
       },
       {
         "word": "people",
-        "score": 0.158
+        "score": 0.1573
       },
       {
         "word": "grad",
-        "score": 0.1407
+        "score": 0.1401
       },
       {
         "word": "college",
-        "score": 0.1288
+        "score": 0.1282
       },
       {
         "word": "experience",
-        "score": 0.124
+        "score": 0.1235
       }
     ],
     "http://www.paulgraham.com/investors.html": [
@@ -7059,31 +7059,31 @@
     "http://www.paulgraham.com/marginal.html": [
       {
         "word": "work",
-        "score": 0.2711
-      },
-      {
-        "word": "people",
         "score": 0.271
       },
       {
+        "word": "people",
+        "score": 0.2709
+      },
+      {
         "word": "tests",
-        "score": 0.2088
+        "score": 0.2087
       },
       {
         "word": "things",
-        "score": 0.1864
+        "score": 0.1863
       },
       {
         "word": "apple",
-        "score": 0.1772
+        "score": 0.1771
       },
       {
         "word": "like",
-        "score": 0.1612
+        "score": 0.1611
       },
       {
         "word": "good",
-        "score": 0.1439
+        "score": 0.1438
       },
       {
         "word": "just",
@@ -7101,43 +7101,43 @@
     "http://www.paulgraham.com/america.html": [
       {
         "word": "silicon",
-        "score": 0.3465
+        "score": 0.3515
       },
       {
         "word": "america",
-        "score": 0.3355
+        "score": 0.3404
       },
       {
         "word": "valley",
-        "score": 0.3348
+        "score": 0.3397
       },
       {
         "word": "startups",
-        "score": 0.2493
+        "score": 0.2529
       },
       {
         "word": "people",
-        "score": 0.2081
+        "score": 0.2111
       },
       {
         "word": "universities",
-        "score": 0.1875
+        "score": 0.1903
       },
       {
         "word": "american",
-        "score": 0.1855
+        "score": 0.1882
       },
       {
         "word": "country",
-        "score": 0.1639
-      },
-      {
-        "word": "europe",
-        "score": 0.1612
+        "score": 0.1663
       },
       {
         "word": "countries",
-        "score": 0.1399
+        "score": 0.142
+      },
+      {
+        "word": "capital",
+        "score": 0.1403
       }
     ],
     "http://www.paulgraham.com/siliconvalley.html": [
@@ -7185,43 +7185,43 @@
     "http://www.paulgraham.com/startuplessons.html": [
       {
         "word": "site",
-        "score": 0.2717
+        "score": 0.272
       },
       {
         "word": "startup",
-        "score": 0.2637
+        "score": 0.264
       },
       {
         "word": "users",
-        "score": 0.263
+        "score": 0.2633
       },
       {
         "word": "startups",
-        "score": 0.257
+        "score": 0.2573
       },
       {
         "word": "release",
-        "score": 0.241
+        "score": 0.2413
       },
       {
         "word": "people",
-        "score": 0.1957
+        "score": 0.1959
       },
       {
         "word": "google",
-        "score": 0.1642
+        "score": 0.1644
       },
       {
         "word": "things",
-        "score": 0.1318
+        "score": 0.132
       },
       {
         "word": "make",
-        "score": 0.1312
+        "score": 0.1314
       },
       {
         "word": "limit",
-        "score": 0.123
+        "score": 0.1232
       }
     ],
     "http://www.paulgraham.com/randomness.html": [
@@ -7269,11 +7269,11 @@
     "http://www.paulgraham.com/softwarepatents.html": [
       {
         "word": "patents",
-        "score": 0.6709
+        "score": 0.6712
       },
       {
         "word": "patent",
-        "score": 0.6261
+        "score": 0.6263
       },
       {
         "word": "software",
@@ -7289,11 +7289,11 @@
       },
       {
         "word": "business",
-        "score": 0.0769
+        "score": 0.077
       },
       {
         "word": "startups",
-        "score": 0.0701
+        "score": 0.0702
       },
       {
         "word": "build",
@@ -7311,43 +7311,43 @@
     "http://www.paulgraham.com/6631327.html": [
       {
         "word": "search",
-        "score": 0.3774
+        "score": 0.3803
       },
       {
         "word": "patent",
-        "score": 0.3224
+        "score": 0.3249
       },
       {
         "word": "results",
-        "score": 0.3209
+        "score": 0.3233
       },
       {
         "word": "yahoo",
-        "score": 0.3002
+        "score": 0.3025
       },
       {
         "word": "order",
-        "score": 0.2812
+        "score": 0.2834
       },
       {
         "word": "revenue",
-        "score": 0.1918
+        "score": 0.1933
       },
       {
         "word": "sites",
-        "score": 0.1897
+        "score": 0.1912
       },
       {
         "word": "application",
-        "score": 0.1838
-      },
-      {
-        "word": "optimal",
-        "score": 0.1238
+        "score": 0.1852
       },
       {
         "word": "ago",
-        "score": 0.1186
+        "score": 0.1195
+      },
+      {
+        "word": "viaweb",
+        "score": 0.1187
       }
     ],
     "http://www.paulgraham.com/whyyc.html": [
@@ -7415,7 +7415,7 @@
       },
       {
         "word": "people",
-        "score": 0.2053
+        "score": 0.2052
       },
       {
         "word": "love",
@@ -7479,7 +7479,7 @@
     "http://www.paulgraham.com/web20.html": [
       {
         "word": "web",
-        "score": 0.7507
+        "score": 0.7506
       },
       {
         "word": "sites",
@@ -7521,7 +7521,7 @@
     "http://www.paulgraham.com/startupfunding.html": [
       {
         "word": "vcs",
-        "score": 0.3923
+        "score": 0.3924
       },
       {
         "word": "angel",
@@ -7529,7 +7529,7 @@
       },
       {
         "word": "firms",
-        "score": 0.2555
+        "score": 0.2556
       },
       {
         "word": "startup",
@@ -7537,7 +7537,7 @@
       },
       {
         "word": "angels",
-        "score": 0.2339
+        "score": 0.234
       },
       {
         "word": "company",
@@ -7605,57 +7605,57 @@
     "http://www.paulgraham.com/ideas.html": [
       {
         "word": "ideas",
-        "score": 0.4191
+        "score": 0.4186
       },
       {
         "word": "people",
-        "score": 0.2349
+        "score": 0.2346
       },
       {
         "word": "startup",
-        "score": 0.2272
+        "score": 0.2269
       },
       {
         "word": "idea",
-        "score": 0.2098
+        "score": 0.2095
       },
       {
         "word": "just",
-        "score": 0.1601
+        "score": 0.1599
       },
       {
         "word": "problem",
-        "score": 0.1568
+        "score": 0.1566
       },
       {
         "word": "new",
-        "score": 0.1392
+        "score": 0.139
       },
       {
         "word": "way",
-        "score": 0.1332
+        "score": 0.133
       },
       {
         "word": "make",
-        "score": 0.131
+        "score": 0.1308
       },
       {
         "word": "mind",
-        "score": 0.1269
+        "score": 0.1268
       }
     ],
     "http://www.paulgraham.com/sfp.html": [
       {
         "word": "summer",
-        "score": 0.6014
+        "score": 0.6016
       },
       {
         "word": "founders",
-        "score": 0.2386
+        "score": 0.2387
       },
       {
         "word": "groups",
-        "score": 0.2154
+        "score": 0.2155
       },
       {
         "word": "startups",
@@ -7667,7 +7667,7 @@
       },
       {
         "word": "surprised",
-        "score": 0.1291
+        "score": 0.1292
       },
       {
         "word": "startup",
@@ -7675,11 +7675,11 @@
       },
       {
         "word": "work",
-        "score": 0.1213
+        "score": 0.1214
       },
       {
         "word": "just",
-        "score": 0.1203
+        "score": 0.1204
       },
       {
         "word": "hackers",
@@ -7689,43 +7689,43 @@
     "http://www.paulgraham.com/inequality.html": [
       {
         "word": "inequality",
-        "score": 0.4618
+        "score": 0.4636
       },
       {
         "word": "economic",
-        "score": 0.3085
+        "score": 0.3097
       },
       {
         "word": "wealth",
-        "score": 0.2903
+        "score": 0.2914
       },
       {
         "word": "startups",
-        "score": 0.2863
+        "score": 0.2874
       },
       {
         "word": "rich",
-        "score": 0.2553
+        "score": 0.2562
       },
       {
         "word": "risk",
-        "score": 0.2392
+        "score": 0.2401
       },
       {
         "word": "poor",
-        "score": 0.2024
+        "score": 0.2031
       },
       {
         "word": "people",
-        "score": 0.126
+        "score": 0.1265
       },
       {
         "word": "money",
-        "score": 0.1239
+        "score": 0.1244
       },
       {
         "word": "government",
-        "score": 0.1217
+        "score": 0.1222
       }
     ],
     "http://www.paulgraham.com/ladder.html": [
@@ -7766,92 +7766,92 @@
         "score": 0.1316
       },
       {
-        "word": "safe",
+        "word": "develop",
         "score": 0.1155
       }
     ],
     "http://www.paulgraham.com/opensource.html": [
       {
         "word": "open",
-        "score": 0.2841
+        "score": 0.286
       },
       {
         "word": "work",
-        "score": 0.2705
+        "score": 0.2722
       },
       {
         "word": "source",
-        "score": 0.2655
+        "score": 0.2673
       },
       {
         "word": "people",
-        "score": 0.2099
+        "score": 0.2112
       },
       {
         "word": "office",
-        "score": 0.1883
+        "score": 0.1896
       },
       {
         "word": "online",
-        "score": 0.1825
+        "score": 0.1837
       },
       {
         "word": "business",
-        "score": 0.1813
+        "score": 0.1825
       },
       {
         "word": "employees",
-        "score": 0.1659
+        "score": 0.167
       },
       {
         "word": "relationship",
-        "score": 0.1634
+        "score": 0.1644
       },
       {
         "word": "like",
-        "score": 0.1626
+        "score": 0.1636
       }
     ],
     "http://www.paulgraham.com/hiring.html": [
       {
         "word": "company",
-        "score": 0.24
+        "score": 0.2358
       },
       {
         "word": "companies",
-        "score": 0.2342
+        "score": 0.23
       },
       {
         "word": "startups",
-        "score": 0.217
+        "score": 0.2131
       },
       {
         "word": "startup",
-        "score": 0.2164
+        "score": 0.2126
       },
       {
         "word": "big",
-        "score": 0.1963
+        "score": 0.1928
       },
       {
         "word": "people",
-        "score": 0.1944
+        "score": 0.1909
+      },
+      {
+        "word": "undergrads",
+        "score": 0.1907
       },
       {
         "word": "start",
-        "score": 0.1936
+        "score": 0.1902
       },
       {
         "word": "college",
-        "score": 0.1541
+        "score": 0.1514
       },
       {
         "word": "users",
-        "score": 0.1439
-      },
-      {
-        "word": "want",
-        "score": 0.1432
+        "score": 0.1414
       }
     ],
     "http://www.paulgraham.com/submarine.html": [
@@ -7907,7 +7907,7 @@
       },
       {
         "word": "make",
-        "score": 0.2109
+        "score": 0.2108
       },
       {
         "word": "web",
@@ -7927,14 +7927,14 @@
       },
       {
         "word": "summer",
-        "score": 0.149
-      },
-      {
-        "word": "art",
-        "score": 0.144
+        "score": 0.1489
       },
       {
         "word": "sites",
+        "score": 0.144
+      },
+      {
+        "word": "art",
         "score": 0.144
       }
     ],
@@ -8025,85 +8025,85 @@
     "http://www.paulgraham.com/college.html": [
       {
         "word": "math",
-        "score": 0.3163
+        "score": 0.3158
       },
       {
         "word": "grad",
-        "score": 0.3091
+        "score": 0.3086
       },
       {
         "word": "professors",
-        "score": 0.3044
+        "score": 0.304
       },
       {
         "word": "college",
-        "score": 0.2874
+        "score": 0.287
       },
       {
         "word": "school",
-        "score": 0.2799
+        "score": 0.2795
       },
       {
         "word": "learn",
-        "score": 0.2245
+        "score": 0.2241
       },
       {
         "word": "research",
-        "score": 0.1774
+        "score": 0.1772
       },
       {
         "word": "work",
-        "score": 0.1499
+        "score": 0.1497
       },
       {
         "word": "science",
-        "score": 0.1445
+        "score": 0.1443
       },
       {
         "word": "problems",
-        "score": 0.1328
+        "score": 0.1326
       }
     ],
     "http://www.paulgraham.com/venturecapital.html": [
       {
         "word": "vcs",
-        "score": 0.7146
+        "score": 0.7132
       },
       {
         "word": "funds",
-        "score": 0.2159
+        "score": 0.2155
       },
       {
         "word": "million",
-        "score": 0.1823
+        "score": 0.182
       },
       {
         "word": "valuation",
-        "score": 0.1679
+        "score": 0.1676
       },
       {
         "word": "like",
-        "score": 0.1339
+        "score": 0.1336
       },
       {
         "word": "founders",
-        "score": 0.1269
+        "score": 0.1267
       },
       {
         "word": "giant",
-        "score": 0.1238
+        "score": 0.1236
       },
       {
         "word": "yahoo",
-        "score": 0.1189
+        "score": 0.1186
       },
       {
         "word": "business",
-        "score": 0.1142
+        "score": 0.1139
       },
       {
         "word": "deals",
-        "score": 0.1134
+        "score": 0.1131
       }
     ],
     "http://www.paulgraham.com/start.html": [
@@ -8144,14 +8144,14 @@
         "score": 0.138
       },
       {
-        "word": "users",
+        "word": "technology",
         "score": 0.1237
       }
     ],
     "http://www.paulgraham.com/hs.html": [
       {
         "word": "school",
-        "score": 0.4999
+        "score": 0.4998
       },
       {
         "word": "high",
@@ -8175,7 +8175,7 @@
       },
       {
         "word": "people",
-        "score": 0.1459
+        "score": 0.1458
       },
       {
         "word": "like",
@@ -8193,35 +8193,35 @@
     "http://www.paulgraham.com/usa.html": [
       {
         "word": "cars",
-        "score": 0.3487
+        "score": 0.3489
       },
       {
         "word": "american",
-        "score": 0.3173
+        "score": 0.3174
       },
       {
         "word": "design",
-        "score": 0.3066
+        "score": 0.3068
       },
       {
         "word": "car",
-        "score": 0.2715
+        "score": 0.2716
       },
       {
         "word": "software",
-        "score": 0.248
+        "score": 0.2481
       },
       {
         "word": "america",
-        "score": 0.2359
+        "score": 0.236
       },
       {
         "word": "japanese",
-        "score": 0.1717
+        "score": 0.1718
       },
       {
         "word": "good",
-        "score": 0.148
+        "score": 0.1481
       },
       {
         "word": "just",
@@ -8229,7 +8229,7 @@
       },
       {
         "word": "cities",
-        "score": 0.1407
+        "score": 0.1408
       }
     ],
     "http://www.paulgraham.com/charisma.html": [
@@ -8300,11 +8300,11 @@
         "score": 0.1987
       },
       {
-        "word": "returns",
+        "word": "opinions",
         "score": 0.1812
       },
       {
-        "word": "opinions",
+        "word": "returns",
         "score": 0.1812
       },
       {
@@ -8319,175 +8319,175 @@
     "http://www.paulgraham.com/laundry.html": [
       {
         "word": "write",
-        "score": 0.3167
+        "score": 0.3194
       },
       {
         "word": "english",
-        "score": 0.3076
+        "score": 0.3102
       },
       {
         "word": "essay",
-        "score": 0.3022
+        "score": 0.3048
       },
       {
         "word": "writing",
-        "score": 0.2608
+        "score": 0.263
       },
       {
         "word": "students",
-        "score": 0.2563
+        "score": 0.2585
       },
       {
         "word": "essays",
-        "score": 0.2535
+        "score": 0.2557
       },
       {
         "word": "school",
-        "score": 0.2015
+        "score": 0.2033
       },
       {
         "word": "things",
-        "score": 0.1443
+        "score": 0.1456
       },
       {
         "word": "universities",
-        "score": 0.1254
+        "score": 0.1264
       },
       {
         "word": "schools",
-        "score": 0.1227
+        "score": 0.1238
       }
     ],
     "http://www.paulgraham.com/bubble.html": [
       {
         "word": "bubble",
-        "score": 0.3577
+        "score": 0.358
       },
       {
         "word": "options",
-        "score": 0.2847
+        "score": 0.2849
       },
       {
         "word": "internet",
-        "score": 0.2406
+        "score": 0.2408
       },
       {
         "word": "nerds",
-        "score": 0.227
+        "score": 0.2272
       },
       {
         "word": "yahoo",
-        "score": 0.2162
+        "score": 0.2164
       },
       {
         "word": "company",
-        "score": 0.2047
+        "score": 0.2049
       },
       {
         "word": "stock",
-        "score": 0.1645
+        "score": 0.1647
       },
       {
         "word": "companies",
-        "score": 0.1598
+        "score": 0.1599
       },
       {
         "word": "people",
-        "score": 0.1469
+        "score": 0.147
       },
       {
         "word": "big",
-        "score": 0.1349
+        "score": 0.135
       }
     ],
     "http://www.paulgraham.com/essay.html": [
       {
         "word": "english",
-        "score": 0.3636
+        "score": 0.3638
       },
       {
         "word": "essay",
-        "score": 0.3566
+        "score": 0.3568
       },
       {
         "word": "write",
-        "score": 0.2543
+        "score": 0.2544
       },
       {
         "word": "writing",
-        "score": 0.2285
+        "score": 0.2286
       },
       {
         "word": "essays",
-        "score": 0.1983
+        "score": 0.1984
       },
       {
         "word": "study",
-        "score": 0.1961
+        "score": 0.1962
       },
       {
         "word": "things",
-        "score": 0.1779
+        "score": 0.178
       },
       {
         "word": "history",
-        "score": 0.1463
+        "score": 0.1464
       },
       {
         "word": "professors",
-        "score": 0.1426
+        "score": 0.1427
       },
       {
         "word": "university",
-        "score": 0.128
+        "score": 0.1281
       }
     ],
     "http://www.paulgraham.com/pypar.html": [
       {
         "word": "python",
-        "score": 0.4974
+        "score": 0.4958
       },
       {
         "word": "programmers",
-        "score": 0.3278
+        "score": 0.3268
       },
       {
         "word": "translation",
-        "score": 0.2996
+        "score": 0.2986
       },
       {
         "word": "language",
-        "score": 0.2637
+        "score": 0.2628
       },
       {
         "word": "code",
-        "score": 0.2341
+        "score": 0.2334
       },
       {
         "word": "learn",
-        "score": 0.2234
+        "score": 0.2227
       },
       {
         "word": "perl",
-        "score": 0.2132
+        "score": 0.2125
       },
       {
         "word": "java",
-        "score": 0.2097
+        "score": 0.209
       },
       {
         "word": "languages",
-        "score": 0.163
+        "score": 0.1625
       },
       {
         "word": "source",
-        "score": 0.155
+        "score": 0.1545
       }
     ],
     "http://www.paulgraham.com/gh.html": [
       {
         "word": "hackers",
-        "score": 0.6298
+        "score": 0.6299
       },
       {
         "word": "great",
@@ -8529,91 +8529,91 @@
     "http://www.paulgraham.com/gap.html": [
       {
         "word": "wealth",
-        "score": 0.5796
+        "score": 0.5802
       },
       {
         "word": "income",
-        "score": 0.4001
+        "score": 0.4005
       },
       {
         "word": "rich",
-        "score": 0.2365
+        "score": 0.2367
       },
       {
         "word": "variation",
-        "score": 0.1818
+        "score": 0.182
       },
       {
         "word": "society",
-        "score": 0.1778
+        "score": 0.178
       },
       {
         "word": "people",
-        "score": 0.1585
+        "score": 0.1586
       },
       {
         "word": "money",
-        "score": 0.1428
+        "score": 0.1429
       },
       {
         "word": "create",
-        "score": 0.1383
+        "score": 0.1385
       },
       {
         "word": "technology",
-        "score": 0.1191
+        "score": 0.1192
       },
       {
         "word": "created",
-        "score": 0.1103
+        "score": 0.1104
       }
     ],
     "http://www.paulgraham.com/wealth.html": [
       {
         "word": "wealth",
-        "score": 0.545
+        "score": 0.5458
       },
       {
         "word": "company",
-        "score": 0.269
+        "score": 0.2694
       },
       {
         "word": "money",
-        "score": 0.2025
+        "score": 0.2028
       },
       {
         "word": "people",
-        "score": 0.1997
+        "score": 0.1999
       },
       {
         "word": "work",
-        "score": 0.1591
+        "score": 0.1593
       },
       {
         "word": "want",
-        "score": 0.1337
+        "score": 0.1339
       },
       {
         "word": "rich",
-        "score": 0.1287
+        "score": 0.1289
       },
       {
         "word": "startup",
-        "score": 0.1256
+        "score": 0.1258
       },
       {
         "word": "group",
-        "score": 0.1187
+        "score": 0.1189
       },
       {
         "word": "paid",
-        "score": 0.1163
+        "score": 0.1165
       }
     ],
     "http://www.paulgraham.com/gba.html": [
       {
         "word": "hackers",
-        "score": 0.4748
+        "score": 0.4749
       },
       {
         "word": "america",
@@ -8621,11 +8621,11 @@
       },
       {
         "word": "intellectual",
-        "score": 0.2231
+        "score": 0.2232
       },
       {
         "word": "government",
-        "score": 0.2189
+        "score": 0.219
       },
       {
         "word": "programmers",
@@ -8633,7 +8633,7 @@
       },
       {
         "word": "computers",
-        "score": 0.1763
+        "score": 0.1764
       },
       {
         "word": "generation",
@@ -8655,65 +8655,65 @@
     "http://www.paulgraham.com/say.html": [
       {
         "word": "fashion",
-        "score": 0.2756
+        "score": 0.2758
       },
       {
         "word": "ideas",
-        "score": 0.256
+        "score": 0.2563
       },
       {
         "word": "say",
-        "score": 0.2517
+        "score": 0.2519
       },
       {
         "word": "trouble",
-        "score": 0.2206
+        "score": 0.2208
       },
       {
         "word": "people",
-        "score": 0.1948
+        "score": 0.195
       },
       {
         "word": "think",
-        "score": 0.1862
+        "score": 0.1863
       },
       {
         "word": "time",
-        "score": 0.1604
+        "score": 0.1605
       },
       {
         "word": "just",
-        "score": 0.1395
+        "score": 0.1396
       },
       {
         "word": "past",
-        "score": 0.138
+        "score": 0.1381
       },
       {
         "word": "true",
-        "score": 0.1346
+        "score": 0.1347
       }
     ],
     "http://www.paulgraham.com/ffb.html": [
       {
         "word": "spam",
-        "score": 0.7811
+        "score": 0.7814
       },
       {
         "word": "filters",
-        "score": 0.3951
+        "score": 0.3953
       },
       {
         "word": "spammers",
-        "score": 0.2008
+        "score": 0.2009
       },
       {
         "word": "sites",
-        "score": 0.158
+        "score": 0.1581
       },
       {
         "word": "email",
-        "score": 0.1485
+        "score": 0.1486
       },
       {
         "word": "servers",
@@ -8725,11 +8725,11 @@
       },
       {
         "word": "mail",
-        "score": 0.0822
+        "score": 0.0823
       },
       {
         "word": "follow",
-        "score": 0.0808
+        "score": 0.0809
       },
       {
         "word": "order",
@@ -8739,7 +8739,7 @@
     "http://www.paulgraham.com/hp.html": [
       {
         "word": "painting",
-        "score": 0.3997
+        "score": 0.3996
       },
       {
         "word": "hackers",
@@ -8747,7 +8747,7 @@
       },
       {
         "word": "hacking",
-        "score": 0.2872
+        "score": 0.2871
       },
       {
         "word": "software",
@@ -8759,7 +8759,7 @@
       },
       {
         "word": "work",
-        "score": 0.1762
+        "score": 0.1761
       },
       {
         "word": "design",
@@ -8781,57 +8781,57 @@
     "http://www.paulgraham.com/iflisp.html": [
       {
         "word": "languages",
-        "score": 0.5905
+        "score": 0.5817
       },
       {
         "word": "lisp",
-        "score": 0.4481
+        "score": 0.4415
       },
       {
         "word": "popular",
-        "score": 0.2926
+        "score": 0.2882
+      },
+      {
+        "word": "syntax",
+        "score": 0.1716
       },
       {
         "word": "learning",
-        "score": 0.1724
+        "score": 0.1698
       },
       {
         "word": "written",
-        "score": 0.1405
+        "score": 0.1384
       },
       {
         "word": "sales",
-        "score": 0.1309
+        "score": 0.129
       },
       {
         "word": "equivalent",
-        "score": 0.124
+        "score": 0.1222
       },
       {
         "word": "john",
-        "score": 0.124
+        "score": 0.1222
       },
       {
         "word": "programs",
-        "score": 0.1228
-      },
-      {
-        "word": "sentence",
-        "score": 0.1129
+        "score": 0.121
       }
     ],
     "http://www.paulgraham.com/hundred.html": [
       {
         "word": "languages",
-        "score": 0.4749
+        "score": 0.4747
       },
       {
         "word": "language",
-        "score": 0.4664
+        "score": 0.4663
       },
       {
         "word": "program",
-        "score": 0.2193
+        "score": 0.2192
       },
       {
         "word": "years",
@@ -8851,11 +8851,11 @@
       },
       {
         "word": "write",
-        "score": 0.1189
+        "score": 0.1188
       },
       {
         "word": "computers",
-        "score": 0.1169
+        "score": 0.1168
       },
       {
         "word": "hardware",
@@ -8907,7 +8907,7 @@
     "http://www.paulgraham.com/better.html": [
       {
         "word": "spam",
-        "score": 0.6844
+        "score": 0.6843
       },
       {
         "word": "filtering",
@@ -8915,7 +8915,7 @@
       },
       {
         "word": "filter",
-        "score": 0.2743
+        "score": 0.2742
       },
       {
         "word": "free",
@@ -8931,7 +8931,7 @@
       },
       {
         "word": "filters",
-        "score": 0.1894
+        "score": 0.1893
       },
       {
         "word": "spammers",
@@ -8949,11 +8949,11 @@
     "http://www.paulgraham.com/desres.html": [
       {
         "word": "design",
-        "score": 0.6324
+        "score": 0.6326
       },
       {
         "word": "user",
-        "score": 0.2603
+        "score": 0.2604
       },
       {
         "word": "finished",
@@ -8961,7 +8961,7 @@
       },
       {
         "word": "good",
-        "score": 0.2245
+        "score": 0.2246
       },
       {
         "word": "research",
@@ -8991,95 +8991,95 @@
     "http://www.paulgraham.com/spam.html": [
       {
         "word": "spam",
-        "score": 0.799
+        "score": 0.7983
       },
       {
         "word": "filtering",
-        "score": 0.2476
+        "score": 0.2473
       },
       {
         "word": "mail",
-        "score": 0.2443
+        "score": 0.2441
       },
       {
         "word": "spammers",
-        "score": 0.2258
+        "score": 0.2256
       },
       {
         "word": "filters",
-        "score": 0.2094
+        "score": 0.2093
       },
       {
         "word": "email",
-        "score": 0.1814
+        "score": 0.1812
       },
       {
         "word": "probability",
-        "score": 0.1651
+        "score": 0.1649
       },
       {
         "word": "words",
-        "score": 0.1099
+        "score": 0.1098
       },
       {
         "word": "filter",
-        "score": 0.0964
+        "score": 0.0963
       },
       {
         "word": "based",
-        "score": 0.0716
+        "score": 0.0715
       }
     ],
     "http://www.paulgraham.com/icad.html": [
       {
         "word": "lisp",
-        "score": 0.5926
+        "score": 0.5918
       },
       {
         "word": "language",
-        "score": 0.3755
+        "score": 0.375
       },
       {
         "word": "languages",
-        "score": 0.322
+        "score": 0.3215
       },
       {
         "word": "java",
-        "score": 0.183
+        "score": 0.1828
       },
       {
         "word": "python",
-        "score": 0.1763
+        "score": 0.176
       },
       {
         "word": "boss",
-        "score": 0.1734
+        "score": 0.1731
       },
       {
         "word": "programming",
-        "score": 0.1557
+        "score": 0.1554
       },
       {
         "word": "programs",
-        "score": 0.1479
+        "score": 0.1477
       },
       {
         "word": "perl",
-        "score": 0.1273
+        "score": 0.1271
       },
       {
         "word": "write",
-        "score": 0.125
+        "score": 0.1249
       }
     ],
     "http://www.paulgraham.com/power.html": [
       {
         "word": "language",
-        "score": 0.5604
+        "score": 0.5603
       },
       {
         "word": "languages",
-        "score": 0.4474
+        "score": 0.4473
       },
       {
         "word": "code",
@@ -9087,11 +9087,11 @@
       },
       {
         "word": "program",
-        "score": 0.2036
+        "score": 0.2035
       },
       {
         "word": "programs",
-        "score": 0.1951
+        "score": 0.195
       },
       {
         "word": "lines",
@@ -9099,7 +9099,7 @@
       },
       {
         "word": "power",
-        "score": 0.1545
+        "score": 0.1544
       },
       {
         "word": "programming",
@@ -9107,7 +9107,7 @@
       },
       {
         "word": "line",
-        "score": 0.1253
+        "score": 0.1252
       },
       {
         "word": "think",
@@ -9117,57 +9117,57 @@
     "http://www.paulgraham.com/fix.html": [
       {
         "word": "lisp",
-        "score": 0.4781
+        "score": 0.4627
       },
       {
         "word": "perl",
-        "score": 0.3461
+        "score": 0.3349
       },
       {
         "word": "level",
-        "score": 0.3209
+        "score": 0.3105
       },
       {
         "word": "programming",
-        "score": 0.2933
+        "score": 0.2839
       },
       {
         "word": "language",
-        "score": 0.2854
+        "score": 0.2762
       },
       {
         "word": "low",
-        "score": 0.2816
+        "score": 0.2725
       },
       {
         "word": "languages",
-        "score": 0.2646
+        "score": 0.2561
+      },
+      {
+        "word": "syntax",
+        "score": 0.2518
       },
       {
         "word": "java",
-        "score": 0.2269
+        "score": 0.2196
       },
       {
         "word": "data",
-        "score": 0.1579
-      },
-      {
-        "word": "translation",
-        "score": 0.1459
+        "score": 0.1528
       }
     ],
     "http://www.paulgraham.com/taste.html": [
       {
         "word": "design",
-        "score": 0.4276
+        "score": 0.4275
       },
       {
         "word": "good",
-        "score": 0.294
+        "score": 0.2939
       },
       {
         "word": "taste",
-        "score": 0.2795
+        "score": 0.2794
       },
       {
         "word": "beautiful",
@@ -9191,7 +9191,7 @@
       },
       {
         "word": "work",
-        "score": 0.1274
+        "score": 0.1273
       },
       {
         "word": "great",
@@ -9201,85 +9201,85 @@
     "http://www.paulgraham.com/noop.html": [
       {
         "word": "object",
-        "score": 0.79
+        "score": 0.7891
       },
       {
         "word": "programming",
-        "score": 0.382
+        "score": 0.3815
       },
       {
         "word": "program",
-        "score": 0.1215
+        "score": 0.1213
       },
       {
         "word": "code",
-        "score": 0.1188
+        "score": 0.1186
       },
       {
         "word": "programmers",
-        "score": 0.1188
+        "score": 0.1186
       },
       {
         "word": "language",
-        "score": 0.1115
+        "score": 0.1113
       },
       {
         "word": "lines",
-        "score": 0.1043
+        "score": 0.1042
       },
       {
         "word": "lisp",
-        "score": 0.0996
+        "score": 0.0995
       },
       {
         "word": "software",
-        "score": 0.0977
+        "score": 0.0976
       },
       {
         "word": "classes",
-        "score": 0.0975
+        "score": 0.0974
       }
     ],
     "http://www.paulgraham.com/diff.html": [
       {
         "word": "lisp",
-        "score": 0.7643
+        "score": 0.7518
       },
       {
         "word": "language",
-        "score": 0.2684
+        "score": 0.264
       },
       {
         "word": "languages",
-        "score": 0.2488
+        "score": 0.2447
       },
       {
         "word": "code",
-        "score": 0.2145
+        "score": 0.211
+      },
+      {
+        "word": "syntax",
+        "score": 0.1805
       },
       {
         "word": "programs",
-        "score": 0.1724
+        "score": 0.1696
       },
       {
         "word": "time",
-        "score": 0.1101
+        "score": 0.1083
       },
       {
         "word": "late",
-        "score": 0.1097
+        "score": 0.1079
       },
       {
         "word": "read",
-        "score": 0.1093
+        "score": 0.1075
       },
       {
         "word": "designed",
-        "score": 0.1057
-      },
-      {
-        "word": "hardware",
-        "score": 0.093
+        "score": 0.1039
       }
     ],
     "http://www.paulgraham.com/road.html": [
@@ -9313,7 +9313,7 @@
       },
       {
         "word": "applications",
-        "score": 0.1921
+        "score": 0.192
       },
       {
         "word": "viaweb",
@@ -9369,85 +9369,85 @@
     "http://www.paulgraham.com/langdes.html": [
       {
         "word": "language",
-        "score": 0.4698
+        "score": 0.4616
       },
       {
         "word": "languages",
-        "score": 0.34
+        "score": 0.3341
       },
       {
         "word": "programs",
-        "score": 0.2798
+        "score": 0.2749
       },
       {
         "word": "server",
-        "score": 0.2707
+        "score": 0.266
       },
       {
         "word": "design",
-        "score": 0.2423
+        "score": 0.2381
       },
       {
         "word": "programming",
-        "score": 0.2238
+        "score": 0.2199
       },
       {
         "word": "software",
-        "score": 0.211
+        "score": 0.2073
+      },
+      {
+        "word": "syntax",
+        "score": 0.1848
       },
       {
         "word": "based",
-        "score": 0.1805
+        "score": 0.1774
       },
       {
         "word": "think",
-        "score": 0.1372
-      },
-      {
-        "word": "writing",
-        "score": 0.1252
+        "score": 0.1348
       }
     ],
     "http://www.paulgraham.com/popular.html": [
       {
         "word": "language",
-        "score": 0.5697
+        "score": 0.5638
       },
       {
         "word": "lisp",
-        "score": 0.4796
+        "score": 0.4746
       },
       {
         "word": "hackers",
-        "score": 0.2013
+        "score": 0.1992
       },
       {
         "word": "programming",
-        "score": 0.1888
+        "score": 0.1868
       },
       {
         "word": "languages",
-        "score": 0.1863
+        "score": 0.1843
       },
       {
         "word": "programs",
-        "score": 0.1634
+        "score": 0.1617
+      },
+      {
+        "word": "syntax",
+        "score": 0.1445
       },
       {
         "word": "good",
-        "score": 0.138
+        "score": 0.1366
       },
       {
         "word": "perl",
-        "score": 0.1294
+        "score": 0.1281
       },
       {
         "word": "hacker",
-        "score": 0.1198
-      },
-      {
-        "word": "server",
-        "score": 0.1182
+        "score": 0.1186
       }
     ],
     "http://www.paulgraham.com/javacover.html": [
@@ -9495,43 +9495,43 @@
     "http://www.paulgraham.com/avg.html": [
       {
         "word": "lisp",
-        "score": 0.608
+        "score": 0.6075
       },
       {
         "word": "language",
-        "score": 0.4016
+        "score": 0.4013
       },
       {
         "word": "languages",
-        "score": 0.285
+        "score": 0.2848
       },
       {
         "word": "competitors",
-        "score": 0.167
+        "score": 0.1669
       },
       {
         "word": "software",
-        "score": 0.1565
+        "score": 0.1564
       },
       {
         "word": "machine",
-        "score": 0.1479
+        "score": 0.1478
       },
       {
         "word": "perl",
-        "score": 0.1323
+        "score": 0.1322
       },
       {
         "word": "powerful",
-        "score": 0.1282
+        "score": 0.1281
       },
       {
         "word": "programs",
-        "score": 0.1243
+        "score": 0.1242
       },
       {
         "word": "programmer",
-        "score": 0.1183
+        "score": 0.1182
       }
     ],
     "http://www.paulgraham.com/lwba.html": [
@@ -9556,11 +9556,11 @@
         "score": 0.2874
       },
       {
-        "word": "gave",
+        "word": "advantages",
         "score": 0.2795
       },
       {
-        "word": "advantages",
+        "word": "gave",
         "score": 0.2795
       },
       {
@@ -9568,11 +9568,11 @@
         "score": 0.261
       },
       {
-        "word": "interested",
+        "word": "hear",
         "score": 0.2272
       },
       {
-        "word": "hear",
+        "word": "interested",
         "score": 0.2272
       }
     ],
@@ -9682,19 +9682,19 @@
     },
     {
       "word": "like",
-      "score": 0.0723
+      "score": 0.0722
     },
     {
       "word": "startup",
-      "score": 0.0691
+      "score": 0.069
     },
     {
       "word": "startups",
-      "score": 0.0682
+      "score": 0.0681
     },
     {
       "word": "work",
-      "score": 0.0631
+      "score": 0.063
     },
     {
       "word": "good",
@@ -9702,23 +9702,23 @@
     },
     {
       "word": "founders",
-      "score": 0.0583
-    },
-    {
-      "word": "just",
       "score": 0.0581
     },
     {
+      "word": "just",
+      "score": 0.058
+    },
+    {
       "word": "things",
-      "score": 0.0529
+      "score": 0.0528
     },
     {
       "word": "way",
-      "score": 0.0503
+      "score": 0.0502
     },
     {
       "word": "make",
-      "score": 0.0493
+      "score": 0.0492
     },
     {
       "word": "want",
@@ -9726,23 +9726,23 @@
     },
     {
       "word": "company",
-      "score": 0.0481
-    },
-    {
-      "word": "new",
       "score": 0.048
     },
     {
+      "word": "new",
+      "score": 0.0478
+    },
+    {
       "word": "ideas",
-      "score": 0.0472
+      "score": 0.0471
     },
     {
       "word": "money",
-      "score": 0.0462
+      "score": 0.0461
     },
     {
       "word": "investors",
-      "score": 0.0444
+      "score": 0.0443
     },
     {
       "word": "think",
@@ -9750,7 +9750,7 @@
     },
     {
       "word": "time",
-      "score": 0.0402
+      "score": 0.0401
     },
     {
       "word": "companies",
